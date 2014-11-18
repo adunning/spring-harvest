@@ -1,7 +1,12 @@
 ---
 author: Geoffrey Bache Smith
 title: A Spring Harvest
+date: June 1918
 ...
+
+# A Spring Harvest
+
+<span epub:type="pagebreak" id="page4" title="4"/>
 
 # Geoffrey Bache Smith
 
@@ -17,6 +22,26 @@ Received Commission
 Died of wounds at Warlencourt, France
 :   December 3rd, 1916
 
+<span epub:type="pagebreak" id="page5" title="5"/>
+
+A Spring Harvest
+
+by
+
+Geoffrey Bache Smith
+
+Late Lieutenant in the Lancashire Fusiliers
+
+Erskine Macdonald, Ltd.
+
+London, W.C.1
+
+<span epub:type="pagebreak" id="page6" title="6"/>
+
+All Rights Reserved
+
+First published June 1918
+
 <span epub:type="pagebreak" id="page7" title="7"/>
 
 # Note
@@ -30,6 +55,64 @@ Beyond these few facts no prelude and no *envoi* is needed other than those here
 J. R. R. T.
 
 1918.
+
+<span epub:type="pagebreak" id="page8" title="9"/>
+
+# Contents
+
+- I. Two Legends:
+    - Glastonbury
+    - Legend
+- II. First Poems:
+    - Rime
+    - To an Elzevir Cicero
+    - To a Dürer Drawing of Antwerp Harbour
+    - Pure Virginia
+    - A Preface for a Tale I have never told
+    - A Sonnet
+    - “It was all in the Black Countree”
+    - To a Pianist
+    - A Fragment
+    - Sea Poppies
+    - “O, sing me a Song of the Wild West Wind”
+    - Ære Perennius
+    - The Old Kings
+    - “O there be Kings whose Treasuries”
+    - A Study
+    - The Eremite
+    - The House of Eld
+    - The South-west Wind
+    - Schumann: Erstes Verlust
+    - “Dark Boughs against a Golden Sky”
+    - “Wind of the Darkness”
+    - <span epub:type="pagebreak" id="page10" title="10"/>Creator Spiritus
+    - Wind over the Sea
+    - Songs on the Downs
+- III. Last Poems:
+    - “We who have bowed ourselves to Time”
+    - Anglia Valida in Senectute
+    - “Dark is the World our Fathers left us”
+    - Awakening
+    - Ave atque Vale
+    - “O, one came down from Seven Hills”
+    - Sonnet to the British Navy
+    - The Last Meeting
+    - The New Age and the Old
+    - To the Cultured
+    - Afterwards
+    - Domum redit Poeta
+    - Memories
+    - Intercessional
+    - April 1916
+    - “Over the Hills and Hollows Green”
+    - Sonnet
+    - “O Long the Fiends of War shall dance”
+    - For R. Q. G.
+    - “Sun and Shadow and Winds of Spring”
+    - “Let us tell Quiet Stories of Kind Eyes”
+    - “Save that Poetic Fire”
+- The Burial of Sophocles
+- “So we lay down the Pen”
 
 | <span epub:type="pagebreak" id="page11" title="11"/><span style="font-variant:small-caps;">If</span> there be one among the Muses nine
 | Loves not so much *Completion* as *the Will*,
