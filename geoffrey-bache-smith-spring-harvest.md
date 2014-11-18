@@ -628,7 +628,7 @@ J. R. R. T.
 
 <span epub:type="pagebreak" id="page29" title="29"/>
 
-## A Preface for a Tale I Have Never Told
+## A Preface for a Tale I have never told
 
 | <span style="font-variant:small-caps;">Herein</span> is nought of windy citadels
 | Where proud kings dwell, that with an iron hand
@@ -674,7 +674,7 @@ J. R. R. T.
 
 <span epub:type="pagebreak" id="page31" title="31"/>
 
-## "It Was All in the Black Countree”
+## “It was all in the Black Countree”
 
 | <span style="font-variant:small-caps;">It</span> was all in the Black Countree,
 | What time the sweet o’ the year should be,
@@ -775,7 +775,7 @@ J. R. R. T.
 
 <span epub:type="pagebreak" id="page35" title="35"/>
 
-## “O, sing me a song of the wild west wind”
+## “O, sing me a Song of the Wild West Wind”
 
 | <span style="font-variant:small-caps;">O, sing</span> me a song of the wild west wind,
 | And his great sea-harrying flail,
@@ -796,7 +796,7 @@ J. R. R. T.
 
 <span epub:type="pagebreak" id="page36" title="36"/>
 
-## Ære perennius
+## Ære Perennius
 
 ### Written on Commemoration Sunday, Corpus Christi College, Oxford
 
@@ -848,7 +848,7 @@ J. R. R. T.
 
 <span epub:type="pagebreak" id="page38" title="38"/>
 
-## “O there be kings whose treasuries”
+## “O there be Kings whose Treasuries”
 
 | <span style="font-variant:small-caps;">O there</span> be kings whose treasuries
 | Are rich with pearls and gold
@@ -926,7 +926,7 @@ J. R. R. T.
 
 <span epub:type="pagebreak" id="page42" title="42"/>
 
-## The South-West Wind
+## The South-west Wind
 
 | <span style="font-variant:small-caps;">The</span> south-west wind has blown his fill,
 | And vanished with departing day:
@@ -972,7 +972,7 @@ J. R. R. T.
 
 <span epub:type="pagebreak" id="page44" title="44"/>
 
-## “Dark boughs against a golden sky”
+## “Dark Boughs against a Golden Sky”
 
 | <span style="font-variant:small-caps;">Dark</span> boughs against a golden sky,
 | And crying of the winter wind:
@@ -993,7 +993,7 @@ J. R. R. T.
 
 <span epub:type="pagebreak" id="page45" title="45"/>
 
-## “Wind of the darkness”
+## “Wind of the Darkness”
 
 | <span style="font-variant:small-caps;">Wind</span> of the darkness, breathing round us,
 | Wind from the never-resting sea,
@@ -1092,9 +1092,9 @@ J. R. R. T.
 
 <span epub:type="pagebreak" id="page49" title="49"/>
 
-# III. Lash Poems and “The Burial of Sophocles"
+# III. Last Poems and “The Burial of Sophocles"
 
-## “We who have bowed ourselves to time”
+## “We who have bowed ourselves to Time”
 
 | <span style="font-variant:small-caps;">We</span> who have bowed ourselves to time
 | Now arm an uneventful rime
@@ -1128,7 +1128,7 @@ J. R. R. T.
 
 <span epub:type="pagebreak" id="page50" title="50"/>
 
-## Anglia valida in senectute
+## Anglia Valida in Senectute
 
 ### (On the Declaration of War)
 
@@ -1155,7 +1155,7 @@ J. R. R. T.
 
 <span epub:type="pagebreak" id="page51" title="51"/>
 
-## Dark is the world our fathers left us
+## “Dark is the World our Fathers left us”
 
 | <span style="font-variant:small-caps;">Dark</span> is the world our fathers left us,
 | Wearily, greyly the long years flow,
@@ -1197,7 +1197,7 @@ J. R. R. T.
 
 <span epub:type="pagebreak" id="page53" title="53"/>
 
-## Ave atque vale
+## Ave atque Vale
 
 | <span style="font-variant:small-caps;">In</span> Oxford, evermore the same
 | Unto the uttermost verge of time,
@@ -1230,7 +1230,7 @@ J. R. R. T.
 
 <span epub:type="pagebreak" id="page55" title="55"/>
 
-## “O, one came down from seven hills”
+## “O, one came down from Seven Hills”
 
 | <span style="font-variant:small-caps;">O, one</span> came down from seven hills
 | And crossed seven streams:
@@ -1380,7 +1380,7 @@ J. R. R. T.
 
 <span epub:type="pagebreak" id="page62" title="62"/>
 
-## Domum redit poeta
+## Domum redit Poeta
 
 | <span style="font-variant:small-caps;">O much</span> desired from far away
 | And long, I hold thee once again,
@@ -1468,7 +1468,7 @@ J. R. R. T.
 
 <span epub:type="pagebreak" id="page66" title="66"/>
 
-## “Over the hills and hollows green”
+## “Over the Hills and Hollows Green”
 
 | <span style="font-variant:small-caps;">Over</span> the hills and hollows green
 |   The springtide air goes valiantly,
@@ -1502,7 +1502,7 @@ J. R. R. T.
 
 <span epub:type="pagebreak" id="page68" title="68"/>
 
-## "O long the fiends of war shall dance"
+## “O Long the Fiends of War shall dance”
 
 | <span style="font-variant:small-caps;">O long</span> the fiends of war shall dance
 | Upon the stricken fields of France:
@@ -1538,7 +1538,7 @@ J. R. R. T.
 
 <span epub:type="pagebreak" id="page70" title="70"/>
 
-## “Sun and shadow and winds of spring”
+## “Sun and Shadow and Winds of Spring”
 
 | <span style="font-variant:small-caps;">Sun</span> and shadow and winds of spring,
 | Love and laughter and hope and fame,
@@ -1551,7 +1551,7 @@ J. R. R. T.
 
 <span epub:type="pagebreak" id="page71" title="71"/>
 
-## "Let us tell quiet stories of kind eyes”
+## “Let us tell Quiet Stories of Kind Eyes”
 
 | <span style="font-variant:small-caps;">Let</span> us tell quiet stories of kind eyes
 | And placid brows where peace and learning sate:
@@ -1576,7 +1576,7 @@ J. R. R. T.
 
 <span epub:type="pagebreak" id="page72" title="72"/>
 
-## “Save that poetic fire”
+## “Save that Poetic Fire”
 
 | <span style="font-variant:small-caps;">Save</span> that poetic fire
 |   Burns in the hidden heart,
@@ -1764,7 +1764,7 @@ J. R. R. T.
 
 <span epub:type="pagebreak" id="page78" title="78"/>
 
-## “So we lay down the pen”
+## “So we lay down the Pen”
 
 | <span style="font-variant:small-caps;">So</span> we lay down the pen,
 | So we forbear the building of the rime,
