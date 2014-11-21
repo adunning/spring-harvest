@@ -8,6 +8,8 @@ date: June 1918
 
 <span epub:type="pagebreak" id="page4" title="4"/>
 
+# To His Mother
+
 # Geoffrey Bache Smith
 
 Born
@@ -52,7 +54,7 @@ First published June 1918
 
 Beyond these few facts no prelude and no *envoi* is needed other than those here printed as their author left them.
 
-J. R. R. T.
+<span style="text-align:right">J. R. R. T.</span>
 
 1918.
 
@@ -119,7 +121,7 @@ J. R. R. T.
 | And less the austere saint than the fond sinner:
 | Loves scanty ruins, garlanded with years,
 | Better than lofty palaces entire:
-| To her I dedicate this spoiled sheaf
+| To her I dedicate this spoiléd sheaf
 | Of rime that scarcely came to harvesting.
 
 | There is a window here in Magdalen
