@@ -194,7 +194,7 @@ Beyond these few facts no prelude and no *envoi* is needed other than those here
 
 | Then Bedivere: “Alas the King! I saw
 | The unstayed overwhelming tide of war:
-| And when the opposed standards were unfurled
+| And when the opposèd standards were unfurled
 | Of Arthur and of Mordred, his base son,
 | Ere yet the noise of battle was begun
 | I heard the heralds crying to the world:
@@ -242,7 +242,7 @@ Beyond these few facts no prelude and no *envoi* is needed other than those here
 | “Then as he drew with growing pain his breath
 | I looked, and saw a long, black barge that stole
 | Across the waters, like a wandering soul
-| Returned from the woeful realm, to view
+| Returnèd from the woeful realm, to view
 | The ancient haunts well-loved that once it knew.
 | And when it touched the shallows I did bear
 | The dying Arthur as he bade, and there
@@ -255,7 +255,7 @@ Beyond these few facts no prelude and no *envoi* is needed other than those here
 | The sons of kings. The night ere you came hither
 | I was awakened by the sound of feet.
 | And I looked forth, and saw a body borne
-| By veiled figures straight, as they knew whither,
+| By veilèd figures straight, as they knew whither,
 | In at the chapel gateway. I went down
 | And found that they had digged a grave, most meet
 | For one of saintly life, or king by birth:
@@ -271,7 +271,7 @@ Beyond these few facts no prelude and no *envoi* is needed other than those here
 | Graven in golden character, <span style="font-variant:small-caps;">“Arcturus
 | Rex Quondamque Futurus.”</span>
 
-|                             Quoth Bedivere:
+|                               Quoth Bedivere:
 | “Thank God this voice remaineth unto us;
 | Now I do mind me of a prophecy
 | Spoken long since in some emblazoned year,
@@ -299,7 +299,8 @@ Beyond these few facts no prelude and no *envoi* is needed other than those here
 | Lancelot, the hero of immortal fights,
 | Lancelot, the golden knight of golden days.
 
-| “Whence cam’st thou, Lancelot?” “Even from the Queen,
+| “Whence cam’st thou, Lancelot?” “Even from the 
+|   Queen,
 | The Queen that was, whom now a convent’s shade
 | Imprisons, and a dark and tristful veil
 | Enwraps those brows, that in old days were seen
@@ -339,7 +340,7 @@ Beyond these few facts no prelude and no *envoi* is needed other than those here
 
 | Till came that season, wherein solemn days
 | Do celebrate the reign on earth begun
-| Of the most blessed Child, whenas all ways
+| Of the most blessèd Child, whenas all ways
 | Were bound, and all the fields were white with snow.
 | Then in the chapel at high noon they three
 | Offered their quiet orisons and so
@@ -353,7 +354,7 @@ Beyond these few facts no prelude and no *envoi* is needed other than those here
 
 | “Courage, my son, and patience,” quoth the sage;
 | No sin there is, that shall not lose its stain
-| Through the great love of God, and His dear Son,
+| Through the great love of God, and His dear Son,<!-- should this be a period? -->
 | Repent and be forgiven: know that none
 | Shall sue before His throne, and sue in vain,
 | Nor shall one name be blotted from the page
@@ -387,7 +388,7 @@ Beyond these few facts no prelude and no *envoi* is needed other than those here
 | Then softly spake the hermit, “Now is grief
 | Reproved, and sorrow cast out with the lees;
 | For God beholds the living, not the dead;
-| And fie that took the semblance of a child
+| And He that took the semblance of a child
 | Loves He but penance, and the drooping head,
 | Has He not sung for joy, has He not smiled?”
 
@@ -429,7 +430,7 @@ Beyond these few facts no prelude and no *envoi* is needed other than those here
 
 | Beneath the springing grass, and very deep
 | They three do lie, where never mornings rise
-| To ope the portals of their dazed eyes,
+| To ope the portals of their dazèd eyes,
 | Nor ever mortal footstep breaks their sleep,
 
 | And near beside lies Arthur, even he
@@ -465,7 +466,8 @@ Beyond these few facts no prelude and no *envoi* is needed other than those here
 | Brighter his face than is the face of spring,
 | And joy was in his tread, as in his soul.
 
-| And some that paced the cloister paused to glance at him,
+| And some that paced the cloister paused to glance 
+|   at him,
 | And one that went upon an errand stayed,
 | And some that laboured left their work, and came
 | Gathering round him, and he spake, and said:
@@ -536,7 +538,7 @@ Beyond these few facts no prelude and no *envoi* is needed other than those here
 | O scholar, learned in gramarye,
 | Have you seen the manifold things I see?
 
-| Have you seen the forms of traced towers
+| Have you seen the forms of tracèd towers
 | Whence clamorous voices challenge the hours:
 | Gaunt tree-branches, pitchy black
 | Against the long, wind-driven wrack
