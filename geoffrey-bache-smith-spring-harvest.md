@@ -4,6 +4,8 @@ title: A Spring Harvest
 date: June 1918
 ...
 
+<span epub:type="pagebreak" id="page3" title="3"/>
+
 # A Spring Harvest
 
 <span epub:type="pagebreak" id="page4" title="4"/>
@@ -58,7 +60,9 @@ Beyond these few facts no prelude and no *envoi* is needed other than those here
 
 1918.
 
-<span epub:type="pagebreak" id="page8" title="9"/>
+<span epub:type="pagebreak" id="page8" title="8"/>
+
+<span epub:type="pagebreak" id="page9" title="9"/>
 
 # Contents
 
@@ -131,6 +135,8 @@ Beyond these few facts no prelude and no *envoi* is needed other than those here
 | Welded together sans due ordinance,
 | Which might have been far other, but that Mars
 | Scattered and harried them with his ruthless flail.
+
+<span epub:type="pagebreak" id="page13" title="12"/>
 
 <span epub:type="pagebreak" id="page13" title="13"/>
 
@@ -354,7 +360,7 @@ Beyond these few facts no prelude and no *envoi* is needed other than those here
 
 | “Courage, my son, and patience,” quoth the sage;
 | No sin there is, that shall not lose its stain
-| Through the great love of God, and His dear Son.<!-- Source has a comma. -->
+| Through the great love of God, and His dear Son.<!-- Source has a comma. (AD) -->
 | Repent and be forgiven: know that none
 | Shall sue before His throne, and sue in vain,
 | Nor shall one name be blotted from the page
