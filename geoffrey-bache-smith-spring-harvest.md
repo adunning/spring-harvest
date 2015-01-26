@@ -585,7 +585,7 @@ Beyond these few facts no prelude and no *envoi* is needed other than those here
 
 | A voice there is, cries through your every word,
 | Of him, that after greatest glory came
-| Down the grey road to darkness and to tears;
+|     Down the grey road to darkness and to tears;
 | A voice like far seas in still valleys heard,
 | Crying of love and death and hope and fame
 |     That change not with the changing of the years.
@@ -653,7 +653,7 @@ Beyond these few facts no prelude and no *envoi* is needed other than those here
 | Fast-walled cities, or the works of men,
 | But turns his gaze unto the mountain-tops
 | And the unfathomable blue of heaven
-| That only change not with the changing years”-
+| That only change not with the changing years”——
 | A tale that shod itself with ancient shoon
 | And wrapped its cloak, and wandered from the west.
 
@@ -662,17 +662,17 @@ Beyond these few facts no prelude and no *envoi* is needed other than those here
 ## A Sonnet
 
 | <span style="font-variant:small-caps;">There</span> is a wind that takes the heart of a man,
-| A fresh wind in the latter days of spring,
-| When hate and war and every evil thing
+|   A fresh wind in the latter days of spring,
+|   When hate and war and every evil thing
 | That the wide arches of high Heaven span
 | Seems dust, and less to be accounted than
-| The omened touches of a passing wing:
-| When Destiny, that calls himself a king,
-| Goes all forgotten for the song of Pan:
+|   The omened touches of a passing wing:
+|   When Destiny, that calls himself a king,
+|   Goes all forgotten for the song of Pan:
 | For why? Because the twittering of birds
-| Is the best music that was ever sung.
+|   Is the best music that was ever sung.
 | Because the voice of trees finds better words
-| Than ever poet from his heartstrings wrung
+|   Than ever poet from his heartstrings wrung
 | Because all wisdom and all gramarye
 | Are writ in fields, O very plain to see.
 
@@ -696,12 +696,13 @@ Beyond these few facts no prelude and no *envoi* is needed other than those here
 | <span style="font-variant:small-caps;">When</span> others’ fingers touch the keys
 | Then most doleful threnodies
 | Chase about the air, and run
-| Like Pandcemonium begun.
+| Like Pandæmonium begun.
 | Rhythm strained and false accord
 | In a ceaseless stream are poured;
 | Then sighs are heard, and men depart
 | To seek the sage physician’s art,
 | Or silence, and a little ease.
+
 | When others’ fingers touch the keys.
 | When your fingers touch the keys
 | Hark, soft sounds of summer seas
@@ -773,7 +774,7 @@ Beyond these few facts no prelude and no *envoi* is needed other than those here
 | O seek not to burst our prison bands
 | Forged by unseen spirit-hands.
 | Clashing battle and labouring sea,
-| These be for others, not for thee.
+|   These be for others, not for thee.
 | Thou lover of storm and passion and war
 | Break’st our charmed circle never more.
 
@@ -782,21 +783,22 @@ Beyond these few facts no prelude and no *envoi* is needed other than those here
 ## “O, sing me a Song of the Wild West Wind”
 
 | <span style="font-variant:small-caps;">O, sing</span> me a song of the wild west wind,
-| And his great sea-harrying flail,
+|   And his great sea-harrying flail,
 | Of hardy mariners, copper skinned,
-| That fly with a bursting sail.
+|   That fly with a bursting sail.
 | They see the clouds of crisped white
-| That shadow the distant hills,
+|   That shadow the distant hills,
 | And filled are they with a strange delight
-| As shaking away old ills.
+|   As shaking away old ills.
+
 | O, give me a boat that is sure and stark,
-| And swift as a slinger’s stone,
+|   And swift as a slinger’s stone,
 | With a sail of canvas bronzed dark,
-| And I will go out alone:
+|   And I will go out alone:
 | Nor fear nor sorrow my soul shall keep
-| When around me lies the sea.
+|   When around me lies the sea.
 | And I will return with the night, and sleep
-| In the wind’s wild harmony.
+|   In the wind’s wild harmony.
 
 <span epub:type="pagebreak" id="page36" title="36"/>
 
@@ -805,29 +807,34 @@ Beyond these few facts no prelude and no *envoi* is needed other than those here
 ### Written on Commemoration Sunday, Corpus Christi College, Oxford
 
 | <span style="font-variant:small-caps;">We</span> praise, we praise the immortal dead,
-|     Who strove beneath unheeding skies
+|   Who strove beneath unheeding skies
 | For truth that raised the drooping head,
-| For light that gladdened weary eyes:
+|   For light that gladdened weary eyes:
+
 | The martyr’s cross, the warrior’s sword,
-| How should they be of lesser worth
+|   How should they be of lesser worth
 | Than some unprofitable hoard
-| In ancient mines below the earth?
+|   In ancient mines below the earth?
+
 | The song that one alone has sung,
-| The great uncompromising page,
+|   The great uncompromising page,
 | Are these but glittering baubles, flung
-| About the world from age to age?
+|   About the world from age to age?
+
 | But ruin’d columns, wondrous tall,
-| Built in old time with labour sore,
+|   Built in old time with labour sore,
 | The mighty deeds done once for all,
-| The voice heard once, and heard no more?
+|   The voice heard once, and heard no more?
+
 | Rather they shine as doth the star
-| About the close of winter’s day,
+|   About the close of winter’s day,
 | That cheers the traveller afar
-| And draws him on, and points the way.
+|   And draws him on, and points the way.
+
 | We praise, we praise the immortal dead.
-| Do they not verily wait till we
+|   Do they not verily wait till we
 | Of the spoilt years unharvested
-| Be also of their company?
+|   Be also of their company?
 
 <span epub:type="pagebreak" id="page37" title="37"/>
 
@@ -836,17 +843,20 @@ Beyond these few facts no prelude and no *envoi* is needed other than those here
 | <span style="font-variant:small-caps;">Far</span> away from sunny rills,
 | Far away from golden broom,
 | Far away from any town
-| Whitber merchants travel down—
+| Whither merchants travel down—
 | In a hollow of the hills
 | In impenetrable gloom
 | Sit the old forgotten kings
 | Unto whom no poet sings,
 | Unto whom none makes bequest,
-| Unto whom no kingdoms rest,-
+| Unto whom no kingdoms rest,——
 | Only wayward shreds of dreams,
 | And the sound of ancient streams,
 | And the shock of ancient strife
 | On the further shore of life.
+
+---
+
 | When our days are done, shall we
 | Enter their pale company?
 
@@ -855,37 +865,40 @@ Beyond these few facts no prelude and no *envoi* is needed other than those here
 ## “O there be Kings whose Treasuries”
 
 | <span style="font-variant:small-caps;">O there</span> be kings whose treasuries
-| Are rich with pearls and gold
+|   Are rich with pearls and gold
 | And silks and bales of cramasy
-| And spices manifold:
+|   And spices manifold:
 | Gardens they have with marble stairs
-| And streams than life more fair,
+|   And streams than life more fair,
 | With roses set and lavender
-| That do enchant the air.
+|   That do enchant the air.
+
 | O there be many ships that sail
-| The sea-ways wide and blue,
+|   The sea-ways wide and blue,
 | And there be master-mariners
-| To sail them straight and true:
+|   To sail them straight and true:
 | And there be many women fair
-| Who watch out anxiously.
+|   Who watch out anxiously.
 | And are enamoured of the day
-| Their dear ones come from sea:
+|   Their dear ones come from sea:
+
 | But riches I can find enow
-| All in a barren land,
+|   All in a barren land,
 | Where sombre lakes shine wondrously
-| With rocks on either hand:
+|   With rocks on either hand:
 | And I can find enow of love
-| Up there, alone, alone,
+|   Up there, alone, alone,
 | With none beside me save the wind,
-| Nor speech except his moan.
+|   Nor speech except his moan.
+
 | For there far up among the hills
-| The great storms come and go
+|   The great storms come and go
 | In a most proud processional
-| Of cloud and rain and snow:
+|   Of cloud and rain and snow:
 | There light and darkness only are
-| A changing benison
-| Of the old gods who wrought the world j <!-- check -->
-| And shaped the moon and sun.
+|   A changing benison
+| Of the old gods who wrought the world
+|   And shaped the moon and sun.
 
 <span epub:type="pagebreak" id="page39" title="39"/>
 
@@ -893,12 +906,16 @@ Beyond these few facts no prelude and no *envoi* is needed other than those here
 
 | <span style="font-variant:small-caps;">In</span> chamber hung with white,
 | Lit by the dawning light,
+
 | Upon a slender bed
 | She lies, as she were dead:
+
 | Most carven-ivory fair,
 | And palely gold her hair.
+
 | Lo, the sun’s yellow ray,
 | That, with the rise of day,
+
 | Through quartered casement came
 | To wake her life’s pale flame.
 
@@ -907,39 +924,42 @@ Beyond these few facts no prelude and no *envoi* is needed other than those here
 ## The Eremite
 
 | <span style="font-variant:small-caps;">When</span> the world is still in the hush of dawn,
-| And yet fast sleeping are hate and scorn,
+|   And yet fast sleeping are hate and scorn,
 | From my grey lodging under the hill
-| I do go out, and wander at will.
+|   I do go out, and wander at will.
+
 | Of nights when the riven clouds are hurled,
-| And strife and rancour possess the world,
+|   And strife and rancour possess the world,
 | I sit alone, with thoughts that are chill,
-| In my grey lodging under the hill.
+|   In my grey lodging under the hill.
 
 <span epub:type="pagebreak" id="page41" title="41"/>
 
 ## The House of Eld
 
 | <span style="font-variant:small-caps;">Now</span> the old winds are wild about the house,
-| And the old ghosts cry to me from the air
+|   And the old ghosts cry to me from the air
 | Of a far isle set in the western sea,
-| And of the evening sunlight lingering there.
+|   And of the evening sunlight lingering there.
+
 | Ah! I am bound here, bound and fettered,
-| The dark house crumbles, and the woods decay,
+|   The dark house crumbles, and the woods decay,
 | I was too fain of life, that bound me here;
-| Away, old long-loved ghosts, away, away!
+|   Away, old long-loved ghosts, away, away!
 
 <span epub:type="pagebreak" id="page42" title="42"/>
 
 ## The South-west Wind
 
 | <span style="font-variant:small-caps;">The</span> south-west wind has blown his fill,
-| And vanished with departing day:
+|   And vanished with departing day:
 | The air is warm, and very still,
-| And soft as silks of far Cathay.
+|   And soft as silks of far Cathay.
+
 | This is a night when spirits stray.
-| Their wan limbs bear them where they will;
+|   Their wan limbs bear them where they will;
 | They wring their pallid hands alway,
-| Seeing the lights upon the hill.
+|   Seeing the lights upon the hill.
 
 <span epub:type="pagebreak" id="page43" title="43"/>
 
@@ -950,13 +970,16 @@ Beyond these few facts no prelude and no *envoi* is needed other than those here
 | Among the trees
 | Complains the breeze,
 | That still bereaves.
+
 | All silent lies the mere,
 | The silver mere.
 | In saddest wise
 | Reflecting skies
 | Forlorn and sere.
+
 | Would autumn had not claimed its own
 | And would the swallows had not flown.
+
 | Skies overcast!
 | Leaves falling fast!
 | And she has passed
@@ -965,6 +988,7 @@ Beyond these few facts no prelude and no *envoi* is needed other than those here
 | The silver mere,
 | The dying year,
 | And me alone.
+
 | Skies overcast!
 | Leaves falling fast!
 | Does she that passed
@@ -979,94 +1003,107 @@ Beyond these few facts no prelude and no *envoi* is needed other than those here
 ## “Dark Boughs against a Golden Sky”
 
 | <span style="font-variant:small-caps;">Dark</span> boughs against a golden sky,
-| And crying of the winter wind:
+|   And crying of the winter wind:
 | And sweet it is, for hope is high,
-| And sad it is, for we have sinned.
+|   And sad it is, for we have sinned.
+
 | Perfect is nature’s every part
-| In sunny rest, or windy strife:
+|   In sunny rest, or windy strife:
 | But never yet the perfect heart,
-| And never yet the perfect life!
+|   And never yet the perfect life!
+
 | Dark boughs against a golden sky,
-| And crying of the winter wind:
+|   And crying of the winter wind:
 | And in the cold earth we must lie,
-| What matter then if we have sinned?
+|   What matter then if we have sinned?
+
 | For evermore and evermore
-| Shall the great river onward roll:
+|   Shall the great river onward roll:
 | And ever winding streams and poor
-| Shall lose them in the mighty whole.
+|   Shall lose them in the mighty whole.
 
 <span epub:type="pagebreak" id="page45" title="45"/>
 
 ## “Wind of the Darkness”
 
 | <span style="font-variant:small-caps;">Wind</span> of the darkness, breathing round us,
-| Wind from the never-resting sea,
+|   Wind from the never-resting sea,
 | Lo, you have loosed the cords that bound us,
-| Lo, you have set our spirits free:
+|   Lo, you have set our spirits free:
+
 | Free to take wings, like the sea-bird lonely
-| Beating hardily up the wind:
+|   Beating hardily up the wind:
 | Fixed are his eyes on the waters only,
-| Never a glance for the land behind.
+|   Never a glance for the land behind.
+
 | Wind of the darkness, breathing round us,
-| Wind from the never-resting sea.
+|   Wind from the never-resting sea.
 | Was it the old gods’ voice that found us
-| Here, where the bars of prison be?
+|   Here, where the bars of prison be?
+
 | From the far isle that neither knoweth
-| Change of season, nor time’s increase,
+|   Change of season, nor time’s increase,
 | Where is plenty, and no man soweth:
-| Calling to strife that shall end in peace.
+|   Calling to strife that shall end in peace.
 
 <span epub:type="pagebreak" id="page46" title="46"/>
 
 ## Creator Spiritus
 
 | <span style="font-variant:small-caps;">The</span> wind that scatters dying leaves
-| And whirls them from the autumn tree
+|   And whirls them from the autumn tree
 | Is grateful to the ship that cleaves
-| With stately prow the scurrying sea.
+|   With stately prow the scurrying sea.
+
 | Heedless about the world we play
-| Like children in a garden close:
+|   Like children in a garden close:
 | A postern bars the outward way
-| And what’s beyond it no man knows:
+|   And what’s beyond it no man knows:
+
 | For careless days, a life at will,
-| A little laughter, and some tears,
+|   A little laughter, and some tears,
 | These are sufficiency to fill
-| The early, vain, untroubled years,
+|   The early, vain, untroubled years,
+
 | Till at the last the wind upheaves
-| His unimagined strength, and we
+|   His unimagined strength, and we
 | Are scattered far, like autumn leaves,
-| Or proudly sail, like ships at sea.
+|   Or proudly sail, like ships at sea.
 
 <span epub:type="pagebreak" id="page47" title="47"/>
 
 ## Wind over the Sea
 
-| <span style="font-variant:small-caps;">Only</span> a grey sea, and a long grey shore,
-| And the grey heavens brooding over them.
-| Twilight of hopes and purposes forgot,
-| Twilight of ceaseless eld, and when was youth?
-| Is it not lonely here, beyond the years?
+|   <span style="font-variant:small-caps;">Only</span> a grey sea, and a long grey shore,
+|   And the grey heavens brooding over them.
+|   Twilight of hopes and purposes forgot,
+|   Twilight of ceaseless eld, and when was youth?
+|   Is it not lonely here, beyond the years?
+
 | Out of the gathering darkness crashes a wind from the
-| ocean,
+|   ocean,
 | Rushing with league-long paces over the plain of the
-| waters,
+|   waters,
 | Driving the clouds and the breakers before it in sudden
-| commotion.
+|   commotion.
+
 | Who are these on the wind, riders and riderless horses?
 | Riders the great ones that have been and are, and those
-| to come shall be:
+|   to come shall be:
 | These are the children of might, life’s champions and
-| history’s forces.
+|   history’s forces.
+
 | Might I but grasp at a bridle, and fear not to be trodden
-| under,
+|   under,
 | Swing myself into a saddle, and ride on greatly, exulting
 | On down the long straight road of the wind, a galloping
-| thunder!
-| Only a grey sea, and a long grey shore.
-| And the grey heavens brooding over them,
-| Twilight of hopes and purposes forgot,
-| Twilight of ceaseless eld, for when was youth?
-| Is it not lonely here, beyond the years?
+|   thunder!
+
+|   Only a grey sea, and a long grey shore.
+|   And the grey heavens brooding over them,
+|   Twilight of hopes and purposes forgot,
+|   Twilight of ceaseless eld, for when was youth?
+|   Is it not lonely here, beyond the years?
 
 <span epub:type="pagebreak" id="page48" title="48"/>
 
@@ -1137,53 +1174,60 @@ Beyond these few facts no prelude and no *envoi* is needed other than those here
 ### (On the Declaration of War)
 
 | <span style="font-variant:small-caps;">Not</span> like to those who find untrodden ways;
-| But down the weary paths we know,
+|   But down the weary paths we know,
 | Through every change of sky and change of days
-| Silent, processional we go.
+|   Silent, processional we go.
+
 | Not unto us the soft, unlaboured breath
-| Of children’s hopes and children’s fears:
+|   Of children’s hopes and children’s fears:
 | We are not sworn to battle to the death
-| With all the wrongs of all the years:
+|   With all the wrongs of all the years:
+
 | We are old, we are old, and worn and school’d with ills,
-| Maybe our road is almost done,
+|   Maybe our road is almost done,
 | Maybe we are drawn near unto the hills
-| Where rest is and the setting sun:
+|   Where rest is and the setting sun:
+
 | But yet a pride is ours that will not brook
-| The taunts of fools too saucy grown,
+|   The taunts of fools too saucy grown,
 | He that is rash to prove it, let him look
-| He kindle not a fire unknown.
+|   He kindle not a fire unknown.
+
 | Since first we flung our gauntlet to the skies
-| And dared the high Gods’ will to bend,
+|   And dared the high Gods’ will to bend,
 | A fire that still may burn deceit and lies
-| Burn and consume them to the end.
+|   Burn and consume them to the end.
 
 <span epub:type="pagebreak" id="page51" title="51"/>
 
 ## “Dark is the World our Fathers left us”
 
 | <span style="font-variant:small-caps;">Dark</span> is the world our fathers left us,
-| Wearily, greyly the long years flow,
+|   Wearily, greyly the long years flow,
 | Almost the gloom has of hope bereft us,
-| Far is the high gods’ song and low:
+|   Far is the high gods’ song and low:
+
 | Sombre the crests of the mountains lonely,
-| Leafless, wind-ridden, moan the trees:
+|   Leafless, wind-ridden, moan the trees:
 | Down in the valleys is twilight only,
-| Twilight over the mourning seas:
+|   Twilight over the mourning seas:
+
 | Time was when earth was always golden,
-| Time was when skies were always clear:
+|   Time was when skies were always clear:
 | Spirits and souls of the heroes olden,
-| Faint are cries from the darkness, hear!
+|   Faint are cries from the darkness, hear!
+
 | Tear ye the veil of time asunder
-| Tear the veil, ’tis the gods’ command,
+|   Tear the veil, ’tis the gods’ command,
 | Hear we the sun-stricken breakers thunder
-| Over the shore where the heroes stand.
+|   Over the shore where the heroes stand.
 
 ---
 
 | Dark is the world our fathers left us,
-| Heavily, greyly the long years flow,
+|   Heavily, greyly the long years flow,
 | Almost the gloom has of hope bereft us,
-| Far is the high gods’ song and low.
+|   Far is the high gods’ song and low.
 
 <span epub:type="pagebreak" id="page52" title="52"/>
 
@@ -1192,6 +1236,7 @@ Beyond these few facts no prelude and no *envoi* is needed other than those here
 | <span style="font-variant:small-caps;">Gold-crested</span> towers against the veiled skies,
 | Sere branches of the winter trees beneath,
 | And a low song, and heavy-lidded eyes;
+
 | Is there aught else in all the world beside?
 | Is not time stilled and ended in this hour?
 
@@ -1204,107 +1249,118 @@ Beyond these few facts no prelude and no *envoi* is needed other than those here
 ## Ave atque Vale
 
 | <span style="font-variant:small-caps;">In</span> Oxford, evermore the same
-| Unto the uttermost verge of time,
+|   Unto the uttermost verge of time,
 | Though grave-dust choke the sons of men,
-| And silence wait upon the rime,
+|   And silence wait upon the rime,
+
 | At evening now the skies set forth
-| Last glories of the dying year:
+|   Last glories of the dying year:
 | The wind gives chase to relict leaves:
-| And we, we may not linger here.
+|   And we, we may not linger here.
+
 | A little while, and we are gone:
-| God knows if it be ours to see
+|   God knows if it be ours to see
 | Again the earliest hoar-frost white
-| On the long lawns of Trinity.
+|   On the long lawns of Trinity.
+
 | In Merton, of the many courts
-| And doorways good to wander through,
+|   And doorways good to wander through,
 | Gable and spire shall glitter white
-| Or tawny gold against the blue:
+|   Or tawny gold against the blue:
+
 | And still the winter sun shall smile
-| At noonday, or at sunset hour
+|   At noonday, or at sunset hour
 | On Magdalen, girt with ancient trees,
-| Beneath her bright immortal tower.
+|   Beneath her bright immortal tower.
+
 | <span epub:type="pagebreak" id="page54" title="54"/>Though nevermore we tread the ways
-| That our returning feet have known
+|   That our returning feet have known
 | Past Oriel, and Christ Church gate
-| Unto those dearer walls, our own.
+|   Unto those dearer walls, our own.
+
 | Oxford is evermore the same,
-| Unto the uttermost verge of time,
+|   Unto the uttermost verge of time,
 | Though grave-dust choke the sons of men,
-| And silence wait upon the rime.
+|   And silence wait upon the rime.
 
 <span epub:type="pagebreak" id="page55" title="55"/>
 
 ## “O, one came down from Seven Hills”
 
 | <span style="font-variant:small-caps;">O, one</span> came down from seven hills
-| And crossed seven streams:
+|   And crossed seven streams:
 | All in his hands were thyme and grass
-| And in his eyes were dreams:
+|   And in his eyes were dreams:
 | He passed by a seven fields
-| With early dews all grey
+|   With early dews all grey
 | And entered in the stricken town
-| About the break of day.
-| “O you old men that stand and talk
-| About the market-place,
-| There is much trouble in your eyes
-| And anguish in your face:
-| O woman in a silent room
-| Within a silent house,
-| There Is no pleasure in your voice
-| Or peace upon your brows.”
-| “O how should such as we rejoice
-| Who weep that others die,
-| Who quake, and curse ourselves, and watch
-| The vengeful hours go by?
-| O better far to fly the grief
-| That wounds, and never kills;
-| O better far to fly the town
-| And seek the seven hills-”
-| “I will go pray the seven gods
-| Who keep the seven hills
-| That they do grant your city peace,
-| And easement of her ills.”
+|   About the break of day.
 
+| “O you old men that stand and talk
+|   About the market-place,
+| There is much trouble in your eyes
+|   And anguish in your face:
+| O woman in a silent room
+|   Within a silent house,
+| There Is no pleasure in your voice
+|   Or peace upon your brows.”
+
+| “O how should such as we rejoice
+|   Who weep that others die,
+| Who quake, and curse ourselves, and watch
+|   The vengeful hours go by?
+| O better far to fly the grief
+|   That wounds, and never kills;
+| O better far to fly the town
+|   And seek the seven hills-”
+
+| “I will go pray the seven gods
+|   Who keep the seven hills
+| That they do grant your city peace,
+|   And easement of her ills.”
 | <span epub:type="pagebreak" id="page56" title="56"/>“Nay, rather pray the seven gods
-| To launch the latest pain;
+|   To launch the latest pain;
 | For there be many things to do
-| Ere we see peace again.”
+|   Ere we see peace again.”
+
 | “Then I’ll go praise the seven gods
-| With hymns and chauntings seven,
+|   With hymns and chauntings seven,
 | Such as shall split the mountain-tops
-| And shrivel up blue heaven:
+|   And shrivel up blue heaven:
 | That there be men who mock at threats
-| And wag their heads at strife,
+|   And wag their heads at strife,
 | Love home above their own hearts’ blood
-| And honour more than life.”
+|   And honour more than life.”
 
 <span epub:type="pagebreak" id="page57" title="57"/>
 
 ## Sonnet to the British Navy
 
 | <span style="font-variant:small-caps;">Lest</span> force aspire to brand an alien name
-| Upon the immortal empire of the free:
+|   Upon the immortal empire of the free:
 | Lest fire and sword and slaughter strive to tame
-| This isle, was ne’er so tamed, and ne’er shall be.
+|   This isle, was ne’er so tamed, and ne’er shall be.
 | Ye guard the ocean barrier, undismayed
-| ’Midst hidden perils for a brave man’s fears,
+|   ’Midst hidden perils for a brave man’s fears,
 | In iron craft that many smiths have made
-| With peaceful labour in the old, dead years.
+|   With peaceful labour in the old, dead years.
 | In a small vessel, of one Smith ill-wrought
-| I must soon venture on another deep,
+|   I must soon venture on another deep,
 | And dare, with little hope, and little thought
-| Of praise and honour and untroubled sleep:
+|   Of praise and honour and untroubled sleep:
 | So, as each sails upon his perilous sea,
-| I pray High God He strengthen you, and me.
+|   I pray High God He strengthen you, and me.
 
 <span epub:type="pagebreak" id="page58" title="58"/>
 
 ## The Last Meeting
 
-| <span style="font-variant:small-caps;">We</span> who are young, and have caught the splendour of life,
+| <span style="font-variant:small-caps;">We</span> who are young, and have caught the splendour of 
+|       life,
 |   Hunting it down the forested ways of the world,
 | Do we not wear our hearts like a banner unfurled
-|   (Crowned with a chaplet of love, shod with the sandals of strife)?
+|   (Crowned with a chaplet of love, shod with the sandals 
+|       of strife)?
 
 | Now not a lustre of pain, nor an ocean of tears
 |   Nor pangs of death, nor any other thing
@@ -1316,13 +1372,14 @@ Beyond these few facts no prelude and no *envoi* is needed other than those here
 ## The New Age and the Old
 
 | <span style="font-variant:small-caps;">Like</span> the small source of a smooth-flowing river,
-| Like the pale dawn of a wonderful day,
+|   Like the pale dawn of a wonderful day,
 | Comes the New Age, from High God, the good giver,
-| Comes with the shouts of the children at play:
+|   Comes with the shouts of the children at play:
+
 | As an old leaf whirls faster and faster
-| From the sere branch that once gave it fair birth,
+|   From the sere branch that once gave it fair birth,
 | Into the arms of the devil, its master,
-| Be the old age swept away from the earth!
+|   Be the old age swept away from the earth!
 
 <span epub:type="pagebreak" id="page60" title="60"/>
 
@@ -1341,6 +1398,7 @@ Beyond these few facts no prelude and no *envoi* is needed other than those here
 | Discontent and seditions,
 | May Heaven preserve us
 | From being like you.
+
 | What are we, what am I?
 | Poor rough creatures, whose life
 | Is “depressing” and “grey,”
@@ -1361,22 +1419,27 @@ Beyond these few facts no prelude and no *envoi* is needed other than those here
 | The old Gods’ hate
 | On the riven earth
 | No more is poured:
+
 | When weapons of war
 | Are all outworn
 | What shall become
 | Of the race of men?
+
 | One shall go forth
 | In the likeness of a child:
 | Under sere skies
 | Of a grey dawning:
+
 | One shall go forth
 | In the likeness of a child,
 | And desolate places
 | Shall spring and blossom:
+
 | One shall go forth
 | In the likeness of a child:
 | And men shall sing
 | And greatly rejoice:
+
 | All men shall sing
 | For the love that is in them,
 | And he shall behold it
@@ -1387,42 +1450,48 @@ Beyond these few facts no prelude and no *envoi* is needed other than those here
 ## Domum redit Poeta
 
 | <span style="font-variant:small-caps;">O much</span> desired from far away
-| And long, I hold thee once again,
+|   And long, I hold thee once again,
 | Thou undiminished treasury
-| Of small delights, yet nowise vain:
+|   Of small delights, yet nowise vain:
+
 | The cat curled on the cosy hearth,
-| The thrushes in the garden trees,
+|   The thrushes in the garden trees,
 | The memories of younger years,
-| The quiet voices, and the peace.
+|   The quiet voices, and the peace.
 
 <span epub:type="pagebreak" id="page63" title="63"/>
 
 ## Memories
 
 | <span style="font-variant:small-caps;">Shapes</span> in the mist, it is long since I saw you,
-| Pale hands and faces, and quiet eyes.
+|   Pale hands and faces, and quiet eyes.
 | Crowned with a garland the dead years wrought you
-| Out of remembrance that never dies:
+|   Out of remembrance that never dies:
+
 | One among you is tall and supple
-| Good to fight or to love beside,
+|   Good to fight or to love beside,
 | Only the stain of a deadly quarrel,
-| Only that and the years divide:
+|   Only that and the years divide:
+
 | One there is with a face as honest,
-| Heart as true, as the open sea,
+|   Heart as true, as the open sea,
 | One who never betrayed a comrade—
-| Death stands now betwixt him and me.
+|   Death stands now betwixt him and me.
+
 | One I loved with a passionate longing
-| Born of worship and fierce despair,
+|   Born of worship and fierce despair,
 | Dreamed that Heaven were only happy
-| If at length I should find him there.
+|   If at length I should find him there.
+
 | Shapes in the mist, ye see me lonely,
-| Lonely and sad in the dim firelight:
+|   Lonely and sad in the dim firelight:
 | How far now to the last of all battles?
-| (Listen, the guns are loud to-night!)
+|   (Listen, the guns are loud to-night!)
+
 | Whatever comes, I will strike once surely,
-| Once because of an ancient tryst,
+|   Once because of an ancient tryst,
 | Once for love of your dear dead faces
-| Ere I come unto you, Shapes in the mist.
+|   Ere I come unto you, Shapes in the mist.
 
 <span epub:type="pagebreak" id="page64" title="64"/>
 
@@ -1545,38 +1614,43 @@ Beyond these few facts no prelude and no *envoi* is needed other than those here
 ## “Sun and Shadow and Winds of Spring”
 
 | <span style="font-variant:small-caps;">Sun</span> and shadow and winds of spring,
-| Love and laughter and hope and fame,
+|   Love and laughter and hope and fame,
 | Cloud and storm-light over the hills,
-| Tears and passion and sordid shame:
+|   Tears and passion and sordid shame:
+
 | All, all are but as quenched fire
-| And vanish’d smoke to him that lies
+|   And vanish’d smoke to him that lies
 | Amid the silence of the trees
-| Under the silence of the skies.
+|   Under the silence of the skies.
 
 <span epub:type="pagebreak" id="page71" title="71"/>
 
 ## “Let us tell Quiet Stories of Kind Eyes”
 
 | <span style="font-variant:small-caps;">Let</span> us tell quiet stories of kind eyes
-| And placid brows where peace and learning sate:
+|   And placid brows where peace and learning sate:
 | Of misty gardens under evening skies
-| Where four would walk of old, with steps sedate.
+|   Where four would walk of old, with steps sedate.
+
 | Let’s have no word of all the sweat and blood,
-| Of all the noise and strife and dust and smoke
+|   Of all the noise and strife and dust and smoke
 | (We who have seen Death surging like a flood,
-| Wave upon wave, that leaped and raced and broke).
+|   Wave upon wave, that leaped and raced and broke).
+
 | Or let’s sit silently, we three together,
-| Around a wide hearth-fire that’s glowing red,
+|   Around a wide hearth-fire that’s glowing red,
 | Giving no thought to all the stormy weather
-| That flies above the roof-tree overhead.
+|   That flies above the roof-tree overhead.
+
 | And he, the fourth, that lies all silently
-| In some far-distant and untended grave,
+|   In some far-distant and untended grave,
 | Under the shadow of a shattered tree,
-| Shall leave the company of the hapless brave,
+|   Shall leave the company of the hapless brave,
+
 | And draw nigh unto us for memory’s sake,
-| Because a look, a word, a deed, a friend,
+|   Because a look, a word, a deed, a friend,
 | Are bound with cords that never a man may break,
-| Unto his heart for ever, until the end.
+|   Unto his heart for ever, until the end.
 
 <span epub:type="pagebreak" id="page72" title="72"/>
 
@@ -1599,45 +1673,49 @@ Beyond these few facts no prelude and no *envoi* is needed other than those here
 ### The First Verses
 
 | <span style="font-variant:small-caps;">Gather</span> great store of roses, crimson-red
-| From ancient gardens under summer skies:
+|   From ancient gardens under summer skies:
 | New opened buds, and some that soon must shed
-| Their leaves to earth, that all expectant lies;
+|   Their leaves to earth, that all expectant lies;
 | Some from the paths of poets’ wandering.
-| Some from the places where young lovers meet.
+|   Some from the places where young lovers meet.
 | Some from the seats of dreamers pondering,
-| And all most richly red, and honey-sweet.
+|   And all most richly red, and honey-sweet.
+
 | For in the splendour of the afternoon,
-| When sunshine lingers on the glittering town
+|   When sunshine lingers on the glittering town
 | And glorifies the temples wondrous-hewn
-| All set about it like a deathless crown,
+|   All set about it like a deathless crown,
 | We will go mingle with the solemn throng,
-| With neither eyes that weep, nor hearts that bleed,.
+|   With neither eyes that weep, nor hearts that bleed,.
 | That to his grave with slow, majestic song
-| Bears down the latest of the godlike seed.
+|   Bears down the latest of the godlike seed.
+
 | Many a singer lies on distant isle
-| Beneath the canopy of changing sky:
+|   Beneath the canopy of changing sky:
 | Around them waves innumerable smile,
-| And o’er their head the restless seabirds cry:
+|   And o’er their head the restless seabirds cry:
 | But we will lay him far from sound of seas,
-| Far from the jutting crags’ unhopeful gloom,
+|   Far from the jutting crags’ unhopeful gloom,
 | Where there blows never wind save summer breeze,.
-| And where the growing rose may clasp his tomb.
+|   And where the growing rose may clasp his tomb.
+
 | And thither in the splendid nights of spring,
-| When stars in legions over heaven are flung,
+|   When stars in legions over heaven are flung,
 | Shall come the ancient gods, all wondering
-| Why he sings not that had so richly sung:
+|   Why he sings not that had so richly sung:
 | <span epub:type="pagebreak" id="page74" title="74"/>There Heracles with peaceful foot shall press
-| The springing herbage, and Hephaestus strong,
+|   The springing herbage, and Hephaestus strong,
 | Hera and Aphrodite’s loveliness,
-| And the great giver of the choric song.
+|   And the great giver of the choric song.
+
 | And thither, after weary pilgrimage,
-| From unknown lands beyond the hoary wave.
+|   From unknown lands beyond the hoary wave.
 | Shall travellers through every coming age
-| Approach to pluck a blossom from his grave:
+|   Approach to pluck a blossom from his grave:
 | Some in the flush of youth, or in the prime,
-| Whose life is still as heaped gold to spend,
+|   Whose life is still as heaped gold to spend,
 | And some who have drunk deep of grief and time,
-| And who yet linger half-afraid the end.
+|   And who yet linger half-afraid the end.
 
 ### The Interlude
 
