@@ -670,9 +670,9 @@ Beyond these few facts no prelude and no *envoi* is needed other than those here
 |   When Destiny, that calls himself a king,
 |   Goes all forgotten for the song of Pan:
 | For why? Because the twittering of birds
-|   Is the best music that was ever sung.
+|   Is the best music that was ever sung,
 | Because the voice of trees finds better words
-|   Than ever poet from his heartstrings wrung
+|   Than ever poet from his heartstrings wrung:
 | Because all wisdom and all gramarye
 | Are writ in fields, O very plain to see.
 
@@ -701,9 +701,9 @@ Beyond these few facts no prelude and no *envoi* is needed other than those here
 | In a ceaseless stream are poured;
 | Then sighs are heard, and men depart
 | To seek the sage physician’s art,
-| Or silence, and a little ease.
-
+| Or silence, and a little ease,
 | When others’ fingers touch the keys.
+
 | When your fingers touch the keys
 | Hark, soft sounds of summer seas
 | In a melody most fair
@@ -720,6 +720,8 @@ Beyond these few facts no prelude and no *envoi* is needed other than those here
 <span epub:type="pagebreak" id="page33" title="33"/>
 
 ## A Fragment
+
+---
 
 | <span style="font-variant:small-caps;">And</span> some came down in a great wind
 |   Under grey scurrying skies
@@ -738,7 +740,7 @@ Beyond these few facts no prelude and no *envoi* is needed other than those here
 | Storm from the sky, storm from the sea
 |   Beat on them as they stood,
 | And a great longing sprang in them
-|   To cross the roaring flood. . . .
+|   To cross the roaring flood.&nbsp;.&nbsp;.&nbsp;.
 
 <span epub:type="pagebreak" id="page34" title="34"/>
 
@@ -748,14 +750,14 @@ Beyond these few facts no prelude and no *envoi* is needed other than those here
 | Where no wind blows and no waves reach,
 | A sunken precinct here we keep,
 | With woven wiles of endless sleep;
-| Our twisted stems of sere-hued green.
+| Our twisted stems of sere-hued green,
 | Our pallid blooms what sun has seen?
 | And he that tastes our magic breath
 | Shall sleep that sleep whose name is death.
 
 | Wild clouds are scurrying overhead,
 | The wild wind’s voice is loud and dread,
-| Sounding the knell of the dying day.
+| Sounding the knell of the dying day,
 | Yet here is silence and gloom alway.
 | And a great longing seizes me
 | To burst my bondage and be free,
@@ -786,17 +788,17 @@ Beyond these few facts no prelude and no *envoi* is needed other than those here
 |   And his great sea-harrying flail,
 | Of hardy mariners, copper skinned,
 |   That fly with a bursting sail.
-| They see the clouds of crisped white
+| They see the clouds of crispèd white
 |   That shadow the distant hills,
 | And filled are they with a strange delight
 |   As shaking away old ills.
 
 | O, give me a boat that is sure and stark,
 |   And swift as a slinger’s stone,
-| With a sail of canvas bronzed dark,
+| With a sail of canvas bronzèd dark,
 |   And I will go out alone:
 | Nor fear nor sorrow my soul shall keep
-|   When around me lies the sea.
+|   When around me lies the sea,
 | And I will return with the night, and sleep
 |   In the wind’s wild harmony.
 
@@ -830,6 +832,8 @@ Beyond these few facts no prelude and no *envoi* is needed other than those here
 |   About the close of winter’s day,
 | That cheers the traveller afar
 |   And draws him on, and points the way.
+
+---
 
 | We praise, we praise the immortal dead.
 |   Do they not verily wait till we
@@ -878,7 +882,7 @@ Beyond these few facts no prelude and no *envoi* is needed other than those here
 | And there be master-mariners
 |   To sail them straight and true:
 | And there be many women fair
-|   Who watch out anxiously.
+|   Who watch out anxiously,
 | And are enamoured of the day
 |   Their dear ones come from sea:
 
@@ -924,14 +928,14 @@ Beyond these few facts no prelude and no *envoi* is needed other than those here
 ## The Eremite
 
 | <span style="font-variant:small-caps;">When</span> the world is still in the hush of dawn,
-|   And yet fast sleeping are hate and scorn,
+| And yet fast sleeping are hate and scorn,
 | From my grey lodging under the hill
-|   I do go out, and wander at will.
+| I do go out, and wander at will.
 
 | Of nights when the riven clouds are hurled,
-|   And strife and rancour possess the world,
+| And strife and rancour possess the world,
 | I sit alone, with thoughts that are chill,
-|   In my grey lodging under the hill.
+| In my grey lodging under the hill.
 
 <span epub:type="pagebreak" id="page41" title="41"/>
 
@@ -972,7 +976,7 @@ Beyond these few facts no prelude and no *envoi* is needed other than those here
 | That still bereaves.
 
 | All silent lies the mere,
-| The silver mere.
+| The silver mere,
 | In saddest wise
 | Reflecting skies
 | Forlorn and sere.
@@ -1099,7 +1103,7 @@ Beyond these few facts no prelude and no *envoi* is needed other than those here
 | On down the long straight road of the wind, a galloping
 |   thunder!
 
-|   Only a grey sea, and a long grey shore.
+|   Only a grey sea, and a long grey shore,
 |   And the grey heavens brooding over them,
 |   Twilight of hopes and purposes forgot,
 |   Twilight of ceaseless eld, for when was youth?
@@ -1116,7 +1120,7 @@ Beyond these few facts no prelude and no *envoi* is needed other than those here
 | Or fading in a forest-glade
 |   ’Mid violets and daffodils.
 
-| The years have fallen like dead leaves.
+| The years have fallen like dead leaves,
 |   Unwept, uncounted, and unstayed
 | (Such as the autumn tempest thieves),
 |   Since first this road the Romans made.
@@ -1140,12 +1144,12 @@ Beyond these few facts no prelude and no *envoi* is needed other than those here
 | <span style="font-variant:small-caps;">We</span> who have bowed ourselves to time
 | Now arm an uneventful rime
 |   With panoply of flowers
-|   Through the long summer hours. . .
+|   Through the long summer hours.&nbsp;.&nbsp;.&nbsp;.
 
 | But now our fierce and warlike Muse
 | Doth soft companionship refuse,
 |   And we must mount and ride
-|   Upon a steed untried. . . .
+|   Upon a steed untried.&nbsp;.&nbsp;.&nbsp;.
 
 | We who have led by gradual ways
 | Our placid life to sterner days
@@ -1157,10 +1161,10 @@ Beyond these few facts no prelude and no *envoi* is needed other than those here
 |   To whom the voice of guns
 |   Speaks and no longer stuns,
 
-| Calm, though with death encompassed,
+| Calm, though with death encompassèd,
 | That watch the hours go overhead
 |   Knowing too well we must
-|   With all men come to dust. . . .
+|   With all men come to dust.&nbsp;.&nbsp;.&nbsp;.
 
 | Crave of our masters’ clemency
 | Silence a little space that we
@@ -1233,7 +1237,7 @@ Beyond these few facts no prelude and no *envoi* is needed other than those here
 
 ## Awakening
 
-| <span style="font-variant:small-caps;">Gold-crested</span> towers against the veiled skies,
+| <span style="font-variant:small-caps;">Gold-crested</span> towers against the veilèd skies,
 | Sere branches of the winter trees beneath,
 | And a low song, and heavy-lidded eyes;
 
@@ -1278,6 +1282,8 @@ Beyond these few facts no prelude and no *envoi* is needed other than those here
 | Past Oriel, and Christ Church gate
 |   Unto those dearer walls, our own.
 
+---
+
 | Oxford is evermore the same,
 |   Unto the uttermost verge of time,
 | Though grave-dust choke the sons of men,
@@ -1288,10 +1294,10 @@ Beyond these few facts no prelude and no *envoi* is needed other than those here
 ## “O, one came down from Seven Hills”
 
 | <span style="font-variant:small-caps;">O, one</span> came down from seven hills
-|   And crossed seven streams:
+|   And crossèd seven streams:
 | All in his hands were thyme and grass
 |   And in his eyes were dreams:
-| He passed by a seven fields
+| He passèd by a seven fields
 |   With early dews all grey
 | And entered in the stricken town
 |   About the break of day.
@@ -1302,7 +1308,7 @@ Beyond these few facts no prelude and no *envoi* is needed other than those here
 |   And anguish in your face:
 | O woman in a silent room
 |   Within a silent house,
-| There Is no pleasure in your voice
+| There is no pleasure in your voice
 |   Or peace upon your brows.”
 
 | “O how should such as we rejoice
@@ -1312,7 +1318,7 @@ Beyond these few facts no prelude and no *envoi* is needed other than those here
 | O better far to fly the grief
 |   That wounds, and never kills;
 | O better far to fly the town
-|   And seek the seven hills-”
+|   And seek the seven hills——”
 
 | “I will go pray the seven gods
 |   Who keep the seven hills
@@ -1404,10 +1410,10 @@ Beyond these few facts no prelude and no *envoi* is needed other than those here
 | Is “depressing” and “grey,”
 | Is a heart-breaking strife
 | With death and with shame
-| And your polite laughter.
+| And your polite laughter,
 | Till—the world pass away
 | In smoke and in flame,
-| And some of us die.
+| And some of us die,
 | And some live on after
 | To build it anew.
 
@@ -1464,7 +1470,7 @@ Beyond these few facts no prelude and no *envoi* is needed other than those here
 ## Memories
 
 | <span style="font-variant:small-caps;">Shapes</span> in the mist, it is long since I saw you,
-|   Pale hands and faces, and quiet eyes.
+|   Pale hands and faces, and quiet eyes,
 | Crowned with a garland the dead years wrought you
 |   Out of remembrance that never dies:
 
@@ -1536,7 +1542,7 @@ Beyond these few facts no prelude and no *envoi* is needed other than those here
 | Yet such a grace and majesty are yours
 | There be still some, whose glad heart suffereth
 | All hate can bring from her misgotten stores,
-| Telling themselves, so England’s self draw breath.
+| Telling themselves, so England’s self draw breath,
 | That’s all the happiness on this side death.
 
 <span epub:type="pagebreak" id="page66" title="66"/>
@@ -1569,7 +1575,7 @@ Beyond these few facts no prelude and no *envoi* is needed other than those here
 | O God, who madest first the world that we
 | Might happy live, and praise its pleasantness
 | In such wise as the angels never could,
-| Wherefore are hearts, fashioned so wondrously.
+| Wherefore are hearts, fashioned so wondrously,
 | All spoiled and changed by human bitterness
 | Into the likenesses of stone and wood?
 
@@ -1599,11 +1605,11 @@ Beyond these few facts no prelude and no *envoi* is needed other than those here
 | Are as unchangeable as the azure sky,
 | And as fulfilled of infinite mysteries:
 | Are like a fast-locked castle without keys
-| Whereof the gates are very strong and high.
+| Whereof the gates are very strong and high,
 | Impenetrable, and we poor fools die
 | Nor even know what thing beyond them is:
 | O God, by whom men’s lives are multiplied,
-|   Are scattered broadcast in the world like grain.
+|   Are scattered broadcast in the world like grain,
 |       And after long time reaped again and stored,
 | O Thou who only canst be glorified
 |   By man’s own passion and the supreme pain,
@@ -1618,7 +1624,7 @@ Beyond these few facts no prelude and no *envoi* is needed other than those here
 | Cloud and storm-light over the hills,
 |   Tears and passion and sordid shame:
 
-| All, all are but as quenched fire
+| All, all are but as quenchèd fire
 |   And vanish’d smoke to him that lies
 | Amid the silence of the trees
 |   Under the silence of the skies.
@@ -1676,8 +1682,8 @@ Beyond these few facts no prelude and no *envoi* is needed other than those here
 |   From ancient gardens under summer skies:
 | New opened buds, and some that soon must shed
 |   Their leaves to earth, that all expectant lies;
-| Some from the paths of poets’ wandering.
-|   Some from the places where young lovers meet.
+| Some from the paths of poets’ wandering,
+|   Some from the places where young lovers meet,
 | Some from the seats of dreamers pondering,
 |   And all most richly red, and honey-sweet.
 
@@ -1686,7 +1692,7 @@ Beyond these few facts no prelude and no *envoi* is needed other than those here
 | And glorifies the temples wondrous-hewn
 |   All set about it like a deathless crown,
 | We will go mingle with the solemn throng,
-|   With neither eyes that weep, nor hearts that bleed,.
+|   With neither eyes that weep, nor hearts that bleed,
 | That to his grave with slow, majestic song
 |   Bears down the latest of the godlike seed.
 
@@ -1696,7 +1702,7 @@ Beyond these few facts no prelude and no *envoi* is needed other than those here
 |   And o’er their head the restless seabirds cry:
 | But we will lay him far from sound of seas,
 |   Far from the jutting crags’ unhopeful gloom,
-| Where there blows never wind save summer breeze,.
+| Where there blows never wind save summer breeze,
 |   And where the growing rose may clasp his tomb.
 
 | And thither in the splendid nights of spring,
@@ -1704,24 +1710,24 @@ Beyond these few facts no prelude and no *envoi* is needed other than those here
 | Shall come the ancient gods, all wondering
 |   Why he sings not that had so richly sung:
 | <span epub:type="pagebreak" id="page74" title="74"/>There Heracles with peaceful foot shall press
-|   The springing herbage, and Hephaestus strong,
+|   The springing herbage, and Hephæstus strong,
 | Hera and Aphrodite’s loveliness,
 |   And the great giver of the choric song.
 
 | And thither, after weary pilgrimage,
-|   From unknown lands beyond the hoary wave.
+|   From unknown lands beyond the hoary wave,
 | Shall travellers through every coming age
 |   Approach to pluck a blossom from his grave:
 | Some in the flush of youth, or in the prime,
-|   Whose life is still as heaped gold to spend,
+|   Whose life is still as heapèd gold to spend,
 | And some who have drunk deep of grief and time,
 |   And who yet linger half-afraid the end.
 
 ### The Interlude
 
-| <span style="font-variant:small-caps;">It</span> was upon a night of spring,
+| It was upon a night of spring,
 | Even the time when first do sing
-| The new-returned nightingales;
+| The new-returnèd nightingales;
 | Whenas all hills and woods and dales
 | Are resonant with melody
 | Of songs that die not, but shall be
@@ -1736,7 +1742,6 @@ Beyond these few facts no prelude and no *envoi* is needed other than those here
 | Just when the white ship of the moon
 | Had first set sail, and many a rune
 | Was written in the argent stars;
-
 | His feet were set towards the hills
 | Because he knew that there the rills
 | Ran down like jewels, and fairy cars
@@ -1755,7 +1760,7 @@ Beyond these few facts no prelude and no *envoi* is needed other than those here
 ---
 
 | He wandered many nights and days—
-| Whose morns were always crystal clear.
+| Whose morns were always crystal clear,
 | As lay the world in still amaze
 | Enchanted of the springing year,
 | And all the nights with wakeful eyes
@@ -1764,15 +1769,15 @@ Beyond these few facts no prelude and no *envoi* is needed other than those here
 | Received him, which like giant props
 | Stand, lest the all-encircling sky
 | Fall down, and men be crushed and die.
-
----
-
-| And so he reached a curved hill
-| Whereon the horned moon did seem
+| And so he reached a curvèd hill
+| Whereon the hornèd moon did seem
 | Her richest radiance to spill
 | In an inestimable stream,
 | Like jewels rare of countless price,
 | Or wizard magic turned to ice.
+
+---
+
 | And as he reached the topmost crest of it,
 | Lo! the Olympian majesties did sit
 | In a most high and passionless conclave:
@@ -1785,7 +1790,7 @@ Beyond these few facts no prelude and no *envoi* is needed other than those here
 | And from a ripple of the sea was born:
 | And there was Hera, the imperious queen,
 | And Dian’s chastity, that hunts unseen
-| What time with spring the woodland boughs are green
+| What time with spring the woodland boughs are green:
 | And there was Pan with mirth and pleasantness,
 | And Eros’ self that never knew distress
 | Save for the love of the fair Cretan maid;
@@ -1809,7 +1814,7 @@ Beyond these few facts no prelude and no *envoi* is needed other than those here
 
 ### The Last Verses
 
-| <span style="font-variant:small-caps;">O ageless</span> nonpareil of stars
+| O ageless nonpareil of stars
 |     That shinest through a mist of cloud,
 | O light beyond the prison bars
 |     Remote, unwavering, and proud;
@@ -1826,7 +1831,7 @@ Beyond these few facts no prelude and no *envoi* is needed other than those here
 | Many as leaves from autumn trees
 |     The years shall flutter from on high,
 | And with their multiple decease
-|     The souls of men shall fall and die.
+|     The souls of men shall fall and die,
 | Yet, while the empires turn to dust,
 | You shall live on, because you must.
 
