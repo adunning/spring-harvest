@@ -354,7 +354,7 @@ Beyond these few facts no prelude and no *envoi* is needed other than those here
 
 | “Courage, my son, and patience,” quoth the sage;
 | No sin there is, that shall not lose its stain
-| Through the great love of God, and His dear Son,<!-- should this be a period? -->
+| Through the great love of God, and His dear Son.<!-- Source has a comma. -->
 | Repent and be forgiven: know that none
 | Shall sue before His throne, and sue in vain,
 | Nor shall one name be blotted from the page
