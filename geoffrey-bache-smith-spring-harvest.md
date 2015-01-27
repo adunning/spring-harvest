@@ -113,7 +113,7 @@ Beyond these few facts no prelude and no *envoi* is needed other than those here
     -   [“Over the Hills and Hollows Green”](#over-the-hills-and-hollows-green)
     -   [Sonnet](#sonnet)
     -   [“O Long the Fiends of War shall dance”](#o-long-the-fiends-of-war-shall-dance)
-    -   [For R. Q. G.](#for-r-q-g)
+    -   [For R. Q. G.](#for-r.-q.-g.)
     -   [“Sun and Shadow and Winds of Spring”](#)
     -   [“Let us tell Quiet Stories of Kind Eyes”](#let-us-tell-quiet-stories-of-kind-eyes)
     -   [“Save that Poetic Fire”](#save-that-poetic-fire)
