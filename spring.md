@@ -61,7 +61,7 @@ First published June 1918
 
 Beyond these few facts no prelude and no *envoi* is needed other than those here printed as their author left them.
 
-<span style="text-align:right;">J. R. R. T.</span>
+J. R. R. T.
 
 1918.
 
@@ -71,59 +71,59 @@ Beyond these few facts no prelude and no *envoi* is needed other than those here
 
 # Contents
 
--   I. Two Legends:
-    -   Glastonbury
-    -   Legend
--   II\. First Poems:
-    -   Rime
-    -   To an Elzevir Cicero
-    -   To a Dürer Drawing of Antwerp Harbour
-    -   Pure Virginia
-    -   A Preface for a Tale I have never told
-    -   A Sonnet
-    -   “It was all in the Black Countree”
-    -   To a Pianist
-    -   A Fragment
-    -   Sea Poppies
-    -   “O, sing me a Song of the Wild West Wind”
-    -   Ære Perennius
-    -   The Old Kings
-    -   “O there be Kings whose Treasuries”
-    -   A Study
-    -   The Eremite
-    -   The House of Eld
-    -   The South-west Wind
-    -   Schumann: Erstes Verlust
-    -   “Dark Boughs against a Golden Sky”
-    -   “Wind of the Darkness”
-    -   <span id="page10" type="pagebreak" title="10"></span>Creator Spiritus
-    -   Wind over the Sea
-    -   Songs on the Downs
--   III\. Last Poems:
-    -   “We who have bowed ourselves to Time”
-    -   Anglia Valida in Senectute
-    -   “Dark is the World our Fathers left us”
-    -   Awakening
-    -   Ave atque Vale
-    -   “O, one came down from Seven Hills”
-    -   Sonnet to the British Navy
-    -   The Last Meeting
-    -   The New Age and the Old
-    -   To the Cultured
-    -   Afterwards
-    -   Domum redit Poeta
-    -   Memories
-    -   Intercessional
-    -   April 1916
-    -   “Over the Hills and Hollows Green”
-    -   Sonnet
-    -   “O Long the Fiends of War shall dance”
-    -   For R. Q. G.
-    -   “Sun and Shadow and Winds of Spring”
-    -   “Let us tell Quiet Stories of Kind Eyes”
-    -   “Save that Poetic Fire”
--   The Burial of Sophocles
--   “So we lay down the Pen”
+-   [I. Two Legends:](#i.-two-legends)
+    -   [Glastonbury](#glastonbury)
+    -   [Legend](#legend)
+-   [II. First Poems:](#ii.-first-poems)
+    -   [Rime](#rime)
+    -   [To an Elzevir Cicero](#to-an-elzevir-cicero)
+    -   [To a Dürer Drawing of Antwerp Harbour](#to-a-dürer-drawing-of-antwerp-harbour)
+    -   [Pure Virginia](#pure-virginia)
+    -   [A Preface for a Tale I have never told](#a-preface-for-a-tale-i-have-never-told)
+    -   [A Sonnet](#a-sonnet)
+    -   [“It was all in the Black Countree”](#it-was-all-in-the-black-countree)
+    -   [To a Pianist](#to-a-pianist)
+    -   [A Fragment](#a-fragment)
+    -   [Sea Poppies](#sea-poppies)
+    -   [“O, sing me a Song of the Wild West Wind”](#o-sing-me-a-song-of-the-wild-west-wind)
+    -   [Ære Perennius](#ære-perennius)
+    -   [The Old Kings](#the-old-kings)
+    -   [“O there be Kings whose Treasuries”](#o-there-be-kings-whose-treasuries)
+    -   [A Study](#a-study)
+    -   [The Eremite](#the-eremite)
+    -   [The House of Eld](#the-house-of-eld)
+    -   [The South-west Wind](#the-south-west-wind)
+    -   [Schumann: Erstes Verlust](#schumann-erstes-verlust)
+    -   [“Dark Boughs against a Golden Sky”](#dark-boughs-against-a-golden-sky)
+    -   [“Wind of the Darkness”](#wind-of-the-darkness)
+    -   <span id="page10" type="pagebreak" title="10"></span>[Creator Spiritus](#creator-spiritus)
+    -   [Wind over the Sea](#wind-over-the-sea)
+    -   [Songs on the Downs](#songs-on-the-downs)
+-   [III. Last Poems:](#iii.-last-poems-and-the-burial-of-sophocles)
+    -   [“We who have bowed ourselves to Time”](#we-who-have-bowed-ourselves-to-time)
+    -   [Anglia Valida in Senectute](#anglia-valida-in-senectute)
+    -   [“Dark is the World our Fathers left us”](#dark-is-the-world-our-fathers-left-us)
+    -   [Awakening](#awakening)
+    -   [Ave atque Vale](#ave-atque-vale)
+    -   [“O, one came down from Seven Hills”](#o-one-came-down-from-seven-hills)
+    -   [Sonnet to the British Navy](#sonnet-to-the-british-navy)
+    -   [The Last Meeting](#the-last-meeting)
+    -   [The New Age and the Old](#the-new-age-and-the-old)
+    -   [To the Cultured](#to-the-cultured)
+    -   [Afterwards](#afterwards)
+    -   [Domum redit Poeta](#domum-redit-poeta)
+    -   [Memories](#memories)
+    -   [Intercessional](#intercessional)
+    -   [April 1916](#april-1916)
+    -   [“Over the Hills and Hollows Green”](#over-the-hills-and-hollows-green)
+    -   [Sonnet](#sonnet)
+    -   [“O Long the Fiends of War shall dance”](#o-long-the-fiends-of-war-shall-dance)
+    -   [For R. Q. G.](#for-r-q-g)
+    -   [“Sun and Shadow and Winds of Spring”](#)
+    -   [“Let us tell Quiet Stories of Kind Eyes”](#let-us-tell-quiet-stories-of-kind-eyes)
+    -   [“Save that Poetic Fire”](#save-that-poetic-fire)
+-   [The Burial of Sophocles](#the-burial-of-sophocles)
+-   [“So we lay down the Pen”](#so-we-lay-down-the-pen)
 
 <span id="page11" type="pagebreak" title="11"></span><span style="font-variant:small-caps;">If</span> there be one among the Muses nine\
 Loves not so much *Completion* as *the Will*,\
