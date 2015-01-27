@@ -1,18 +1,23 @@
 ---
 author: Geoffrey Bache Smith
-date: June 1918
+generator: pandoc
 title: A Spring Harvest
+viewport: 'width=device-width, initial-scale=1.0, user-scalable=yes'
 ...
 
-<span epub:type="pagebreak" id="page3" title="3"/>
+## Geoffrey Bache Smith {.author}
+
+### June 1918 {.date}
+
+<span id="page3" type="pagebreak" title="3"></span>
 
 # A Spring Harvest
 
-<span epub:type="pagebreak" id="page4" title="4"/>
+<span id="page4" type="pagebreak" title="4"></span>
 
 # To His Mother
 
-# Geoffrey Bache Smith
+# Geoffrey Bache Smith {#geoffrey-bache-smith}
 
 Born
 :   October 18th, 1894
@@ -26,7 +31,7 @@ Received Commission
 Died of wounds at Warlencourt, France
 :   December 3rd, 1916
 
-<span epub:type="pagebreak" id="page5" title="5"/>
+<span id="page5" type="pagebreak" title="5"></span>
 
 A Spring Harvest
 
@@ -40,13 +45,13 @@ Erskine Macdonald, Ltd.
 
 London, W.C.1
 
-<span epub:type="pagebreak" id="page6" title="6"/>
+<span id="page6" type="pagebreak" title="6"></span>
 
 All Rights Reserved
 
 First published June 1918
 
-<span epub:type="pagebreak" id="page7" title="7"/>
+<span id="page7" type="pagebreak" title="7"></span>
 
 # Note
 
@@ -56,13 +61,13 @@ First published June 1918
 
 Beyond these few facts no prelude and no *envoi* is needed other than those here printed as their author left them.
 
-<span style="text-align:right">J. R. R. T.</span>
+<span style="text-align:right;">J. R. R. T.</span>
 
-1918\.
+1918.
 
-<span epub:type="pagebreak" id="page8" title="8"/>
+<span id="page8" type="pagebreak" title="8"></span>
 
-<span epub:type="pagebreak" id="page9" title="9"/>
+<span id="page9" type="pagebreak" title="9"></span>
 
 # Contents
 
@@ -91,7 +96,7 @@ Beyond these few facts no prelude and no *envoi* is needed other than those here
     -   Schumann: Erstes Verlust
     -   “Dark Boughs against a Golden Sky”
     -   “Wind of the Darkness”
-    -   <span epub:type="pagebreak" id="page10" title="10"/>Creator Spiritus
+    -   <span id="page10" type="pagebreak" title="10"></span>Creator Spiritus
     -   Wind over the Sea
     -   Songs on the Downs
 -   III\. Last Poems:
@@ -120,7 +125,7 @@ Beyond these few facts no prelude and no *envoi* is needed other than those here
 -   The Burial of Sophocles
 -   “So we lay down the Pen”
 
-<span epub:type="pagebreak" id="page11" title="11"/><span style="font-variant:small-caps;">If</span> there be one among the Muses nine\
+<span id="page11" type="pagebreak" title="11"></span><span style="font-variant:small-caps;">If</span> there be one among the Muses nine\
 Loves not so much *Completion* as *the Will*,\
 And less the austere saint than the fond sinner:\
 Loves scanty ruins, garlanded with years,\
@@ -136,9 +141,9 @@ Welded together sans due ordinance,\
 Which might have been far other, but that Mars\
 Scattered and harried them with his ruthless flail.
 
-<span epub:type="pagebreak" id="page13" title="12"/>
+<span id="page13" type="pagebreak" title="12"></span>
 
-<span epub:type="pagebreak" id="page13" title="13"/>
+<span id="page13" type="pagebreak" title="13"></span>
 
 # I. Two Legends
 
@@ -177,7 +182,7 @@ And left him whole, at breaking of the light,\
 So he beheld the old man, and desired\
 That he would tell of whom he was, and whence.
 
-<span epub:type="pagebreak" id="page14" title="14"/>Whereat once more the ancient eyes were fired:\
+<span id="page14" type="pagebreak" title="14"></span>Whereat once more the ancient eyes were fired:\
 “I, I was Arthur’s bishop, at his court\
 And in his church I ministered, and thence\
 When at the last the whole was overthrown\
@@ -215,7 +220,7 @@ Of word and measure, till the rime, grown proud,\
 Did straight contemn the leaping mountain tops\
 And lose itself in air, and riven cloud:
 
-<span epub:type="pagebreak" id="page15" title="15"/>“‘Ye that have lived a dangerous life of war\
+<span id="page15" type="pagebreak" title="15"></span>“‘Ye that have lived a dangerous life of war\
 Whose speech has been bold words and heady boasts\
 Gather, for strife and death unknown before,\
 Come gather all unto the fronting hosts.’
@@ -252,7 +257,7 @@ Returnèd from the woeful realm, to view\
 The ancient haunts well-loved that once it knew.\
 And when it touched the shallows I did bear\
 The dying Arthur as he bade, and there\
-<span epub:type="pagebreak" id="page16" title="16"/>I placed him ’mid dark forms: I could not tell\
+<span id="page16" type="pagebreak" title="16"></span>I placed him ’mid dark forms: I could not tell\
 Whose they might be; and wept, and breathed farewell.”
 
 Then spake the eremite: “Beyond yon door\
@@ -291,7 +296,7 @@ Thorough his ancient realm, and the last woes\
 Go over her; his own victorious arm\
 Shall rid the stricken land of hate and foes.”
 
-<span epub:type="pagebreak" id="page17" title="17"/>So leave we them, each head inaureoled\
+<span id="page17" type="pagebreak" title="17"></span>So leave we them, each head inaureoled\
 With the awakening spring’s young sunlight-gold.
 
 Then, on an evening, hurrying footsteps rung\
@@ -329,7 +334,7 @@ And the last look in those unfathomed eyes,\
 The passionate last embrace is coldly riven,\
 And all is grief, beneath the pitiless skies.
 
-<span epub:type="pagebreak" id="page18" title="18"/>“Gods of the burnt-out hearth, the wandered wind,\
+<span id="page18" type="pagebreak" title="18"></span>“Gods of the burnt-out hearth, the wandered wind,\
 Gods of pale dawns that vanished long ago,\
 Gods of the barren tree, the withered leaf.\
 The faded flower, and the ungarnered sheaf,\
@@ -360,13 +365,13 @@ My soul lay all unspotted; now no more.”
 
 “Courage, my son, and patience,” quoth the sage;\
 No sin there is, that shall not lose its stain\
-Through the great love of God, and His dear Son.<!-- Source has a comma. (AD) -->\
+Through the great love of God, and His dear Son.\
 Repent and be forgiven: know that none\
 Shall sue before His throne, and sue in vain,\
 Nor shall one name be blotted from the page\
 If he that bears it turn to prayer and tears.”
 
-<span epub:type="pagebreak" id="page19" title="19"/>Then Lancelot: “Though through the tale of years\
+<span id="page19" type="pagebreak" title="19"></span>Then Lancelot: “Though through the tale of years\
 That still are left before the longed-for earth\
 Receive my body, I should strive amain\
 To slay myself, and gain regenerate birth,\
@@ -404,7 +409,7 @@ Pressed no more to their lips the cup of tears\
 Seemed all things mortal, as in quietness\
 They pondered the eternal mysteries\
 (The noblest heritage of all men born),\
-<span epub:type="pagebreak" id="page20" title="20"/>Such as are writ upon the face of dawn,\
+<span id="page20" type="pagebreak" title="20"></span>Such as are writ upon the face of dawn,\
 Or in the glamour of a moonlit night,\
 Or in the autumn swallow’s southern flight,\
 Or in the breaking of the restless seas:\
@@ -442,7 +447,7 @@ Nor ever mortal footstep breaks their sleep,
 And near beside lies Arthur, even he\
 That was King once, and yet again shall be.
 
-<span epub:type="pagebreak" id="page21" title="21"/>
+<span id="page21" type="pagebreak" title="21"></span>
 
 ## Legend
 
@@ -478,7 +483,7 @@ And one that went upon an errand stayed,\
 And some that laboured left their work, and came\
 Gathering round him, and he spake, and said:
 
-    <span epub:type="pagebreak" id="page22" title="22"/>“Very fair the golden morning\
+    <span id="page22" type="pagebreak" title="22"></span>“Very fair the golden morning\
         As in yonder wood I strayed,\
     And I heard diviner music\
         Than the greatest harpers made,
@@ -514,7 +519,7 @@ A brother entered, and found none within,\
 Only a sere monk’s habit, and much dust,\
 As of a body crumbled in the grave.
 
-<span epub:type="pagebreak" id="page23" title="23"/>And while they wondered what these things might be,\
+<span id="page23" type="pagebreak" title="23"></span>And while they wondered what these things might be,\
 At last spake forth the oldest of them all,\
 Burdened with hundred winters in his soul:\
 “I can remember, when my years were young,\
@@ -531,7 +536,7 @@ Wrote down the story in a mighty book,\
 And limned the old saint hearkening to the bird\
 With bright hues, and you still may read and see.
 
-<span epub:type="pagebreak" id="page24" title="24"/>
+<span id="page24" type="pagebreak" title="24"></span>
 
 # II. First Poems
 
@@ -565,7 +570,7 @@ Loud and splendid, that each man knows\
 Far, O far away is the sea,\
 Breaking, murmuring, stark and free?
 
-<span epub:type="pagebreak" id="page25" title="25"/>All these things I hear and see,\
+<span id="page25" type="pagebreak" title="25"></span>All these things I hear and see,\
 I, a scholar of gramarye:\
 All are writ in the ancient books\
 Clear, exactly, and he that looks\
@@ -576,7 +581,7 @@ In a turret-chamber under the skies)\
 Passion and joy, and sorrow and laughter,\
 Life and death, and the things thereafter.
 
-<span epub:type="pagebreak" id="page26" title="26"/>
+<span id="page26" type="pagebreak" title="26"></span>
 
 ## To an Elzevir Cicero
 
@@ -596,7 +601,7 @@ A voice like far seas in still valleys heard,\
 Crying of love and death and hope and fame\
     That change not with the changing of the years.
 
-<span epub:type="pagebreak" id="page27" title="27"/>
+<span id="page27" type="pagebreak" title="27"></span>
 
 ## To a Dürer Drawing of Antwerp Harbour
 
@@ -615,7 +620,7 @@ And yet we love your image, like some song\
     That tells of ancient days and high, because\
         Old Dürer looked upon you once and smiled.
 
-<span epub:type="pagebreak" id="page28" title="28"/>
+<span id="page28" type="pagebreak" title="28"></span>
 
 ## Pure Virginia
 
@@ -636,7 +641,7 @@ My thoughts, that should be strong, the years to curb\
     Go up, and vanish into nothingness\
         On a blue cloud of exquisite fragrancy.
 
-<span epub:type="pagebreak" id="page29" title="29"/>
+<span id="page29" type="pagebreak" title="29"></span>
 
 ## A Preface for a Tale I have never told
 
@@ -663,7 +668,7 @@ That only change not with the changing years”——\
 A tale that shod itself with ancient shoon\
 And wrapped its cloak, and wandered from the west.
 
-<span epub:type="pagebreak" id="page30" title="30"/>
+<span id="page30" type="pagebreak" title="30"></span>
 
 ## A Sonnet
 
@@ -682,7 +687,7 @@ Because the voice of trees finds better words\
 Because all wisdom and all gramarye\
 Are writ in fields, O very plain to see.
 
-<span epub:type="pagebreak" id="page31" title="31"/>
+<span id="page31" type="pagebreak" title="31"></span>
 
 ## “It was all in the Black Countree”
 
@@ -695,7 +700,7 @@ Upon the topmost branch of it,\
 Who to my thought did sweeter sing\
 Than any minstrel of a king.
 
-<span epub:type="pagebreak" id="page32" title="32"/>
+<span id="page32" type="pagebreak" title="32"></span>
 
 ## To a Pianist
 
@@ -723,7 +728,7 @@ About the wonder-stricken world\
 With immortal harmonies,\
 When your fingers touch the keys.
 
-<span epub:type="pagebreak" id="page33" title="33"/>
+<span id="page33" type="pagebreak" title="33"></span>
 
 ## A Fragment
 
@@ -748,7 +753,7 @@ Storm from the sky, storm from the sea\
 And a great longing sprang in them\
     To cross the roaring flood. . . .
 
-<span epub:type="pagebreak" id="page34" title="34"/>
+<span id="page34" type="pagebreak" title="34"></span>
 
 ## Sea Poppies
 
@@ -786,7 +791,7 @@ Clashing battle and labouring sea,\
 Thou lover of storm and passion and war\
 Break’st our charmed circle never more.
 
-<span epub:type="pagebreak" id="page35" title="35"/>
+<span id="page35" type="pagebreak" title="35"></span>
 
 ## “O, sing me a Song of the Wild West Wind”
 
@@ -808,7 +813,7 @@ Nor fear nor sorrow my soul shall keep\
 And I will return with the night, and sleep\
     In the wind’s wild harmony.
 
-<span epub:type="pagebreak" id="page36" title="36"/>
+<span id="page36" type="pagebreak" title="36"></span>
 
 ## Ære Perennius
 
@@ -846,7 +851,7 @@ We praise, we praise the immortal dead.\
 Of the spoilt years unharvested\
     Be also of their company?
 
-<span epub:type="pagebreak" id="page37" title="37"/>
+<span id="page37" type="pagebreak" title="37"></span>
 
 ## The Old Kings
 
@@ -870,7 +875,7 @@ On the further shore of life.
 When our days are done, shall we\
 Enter their pale company?
 
-<span epub:type="pagebreak" id="page38" title="38"/>
+<span id="page38" type="pagebreak" title="38"></span>
 
 ## “O there be Kings whose Treasuries”
 
@@ -910,7 +915,7 @@ There light and darkness only are\
 Of the old gods who wrought the world\
     And shaped the moon and sun.
 
-<span epub:type="pagebreak" id="page39" title="39"/>
+<span id="page39" type="pagebreak" title="39"></span>
 
 ## A Study
 
@@ -929,7 +934,7 @@ That, with the rise of day,
 Through quartered casement came\
 To wake her life’s pale flame.
 
-<span epub:type="pagebreak" id="page40" title="40"/>
+<span id="page40" type="pagebreak" title="40"></span>
 
 ## The Eremite
 
@@ -943,7 +948,7 @@ And strife and rancour possess the world,\
 I sit alone, with thoughts that are chill,\
 In my grey lodging under the hill.
 
-<span epub:type="pagebreak" id="page41" title="41"/>
+<span id="page41" type="pagebreak" title="41"></span>
 
 ## The House of Eld
 
@@ -957,7 +962,7 @@ Ah! I am bound here, bound and fettered,\
 I was too fain of life, that bound me here;\
     Away, old long-loved ghosts, away, away!
 
-<span epub:type="pagebreak" id="page42" title="42"/>
+<span id="page42" type="pagebreak" title="42"></span>
 
 ## The South-west Wind
 
@@ -971,7 +976,7 @@ This is a night when spirits stray.\
 They wring their pallid hands alway,\
     Seeing the lights upon the hill.
 
-<span epub:type="pagebreak" id="page43" title="43"/>
+<span id="page43" type="pagebreak" title="43"></span>
 
 ## Schumann: Erstes Verlust
 
@@ -1008,7 +1013,7 @@ The silver mere,\
 The dying year,\
 And me alone?
 
-<span epub:type="pagebreak" id="page44" title="44"/>
+<span id="page44" type="pagebreak" title="44"></span>
 
 ## “Dark Boughs against a Golden Sky”
 
@@ -1032,7 +1037,7 @@ For evermore and evermore\
 And ever winding streams and poor\
     Shall lose them in the mighty whole.
 
-<span epub:type="pagebreak" id="page45" title="45"/>
+<span id="page45" type="pagebreak" title="45"></span>
 
 ## “Wind of the Darkness”
 
@@ -1056,7 +1061,7 @@ From the far isle that neither knoweth\
 Where is plenty, and no man soweth:\
     Calling to strife that shall end in peace.
 
-<span epub:type="pagebreak" id="page46" title="46"/>
+<span id="page46" type="pagebreak" title="46"></span>
 
 ## Creator Spiritus
 
@@ -1080,7 +1085,7 @@ Till at the last the wind upheaves\
 Are scattered far, like autumn leaves,\
     Or proudly sail, like ships at sea.
 
-<span epub:type="pagebreak" id="page47" title="47"/>
+<span id="page47" type="pagebreak" title="47"></span>
 
 ## Wind over the Sea
 
@@ -1115,7 +1120,7 @@ On down the long straight road of the wind, a galloping\
     Twilight of ceaseless eld, for when was youth?\
     Is it not lonely here, beyond the years?
 
-<span epub:type="pagebreak" id="page48" title="48"/>
+<span id="page48" type="pagebreak" title="48"></span>
 
 ## Songs on the Downs
 
@@ -1141,7 +1146,7 @@ A many ancient trees and thin\
 Do fold the place their shade within,\
 And moan, as for remembered sin.
 
-<span epub:type="pagebreak" id="page49" title="49"/>
+<span id="page49" type="pagebreak" title="49"></span>
 
 # III. Last Poems and “The Burial of Sophocles”
 
@@ -1177,7 +1182,7 @@ Silence a little space that we\
     Upon their ear may force\
     Tales of our trodden course.
 
-<span epub:type="pagebreak" id="page50" title="50"/>
+<span id="page50" type="pagebreak" title="50"></span>
 
 ## Anglia Valida in Senectute
 
@@ -1208,7 +1213,7 @@ Since first we flung our gauntlet to the skies\
 A fire that still may burn deceit and lies\
     Burn and consume them to the end.
 
-<span epub:type="pagebreak" id="page51" title="51"/>
+<span id="page51" type="pagebreak" title="51"></span>
 
 ## “Dark is the World our Fathers left us”
 
@@ -1239,7 +1244,7 @@ Dark is the world our fathers left us,\
 Almost the gloom has of hope bereft us,\
     Far is the high gods’ song and low.
 
-<span epub:type="pagebreak" id="page52" title="52"/>
+<span id="page52" type="pagebreak" title="52"></span>
 
 ## Awakening
 
@@ -1254,7 +1259,7 @@ Is not time stilled and ended in this hour?
 
 Up, and away! the belted squadrons ride!
 
-<span epub:type="pagebreak" id="page53" title="53"/>
+<span id="page53" type="pagebreak" title="53"></span>
 
 ## Ave atque Vale
 
@@ -1283,7 +1288,7 @@ And still the winter sun shall smile\
 On Magdalen, girt with ancient trees,\
     Beneath her bright immortal tower.
 
-<span epub:type="pagebreak" id="page54" title="54"/>Though nevermore we tread the ways\
+<span id="page54" type="pagebreak" title="54"></span>Though nevermore we tread the ways\
     That our returning feet have known\
 Past Oriel, and Christ Church gate\
     Unto those dearer walls, our own.
@@ -1295,7 +1300,7 @@ Oxford is evermore the same,\
 Though grave-dust choke the sons of men,\
     And silence wait upon the rime.
 
-<span epub:type="pagebreak" id="page55" title="55"/>
+<span id="page55" type="pagebreak" title="55"></span>
 
 ## “O, one came down from Seven Hills”
 
@@ -1330,7 +1335,7 @@ O better far to fly the town\
     Who keep the seven hills\
 That they do grant your city peace,\
     And easement of her ills.”\
-<span epub:type="pagebreak" id="page56" title="56"/>“Nay, rather pray the seven gods\
+<span id="page56" type="pagebreak" title="56"></span>“Nay, rather pray the seven gods\
     To launch the latest pain;\
 For there be many things to do\
     Ere we see peace again.”
@@ -1344,7 +1349,7 @@ That there be men who mock at threats\
 Love home above their own hearts’ blood\
     And honour more than life.”
 
-<span epub:type="pagebreak" id="page57" title="57"/>
+<span id="page57" type="pagebreak" title="57"></span>
 
 ## Sonnet to the British Navy
 
@@ -1363,7 +1368,7 @@ And dare, with little hope, and little thought\
 So, as each sails upon his perilous sea,\
     I pray High God He strengthen you, and me.
 
-<span epub:type="pagebreak" id="page58" title="58"/>
+<span id="page58" type="pagebreak" title="58"></span>
 
 ## The Last Meeting
 
@@ -1379,7 +1384,7 @@ Now not a lustre of pain, nor an ocean of tears\
 That the old tristful gods on our heads may bring\
     Can rob us of this one hour in the midst of the years.
 
-<span epub:type="pagebreak" id="page59" title="59"/>
+<span id="page59" type="pagebreak" title="59"></span>
 
 ## The New Age and the Old
 
@@ -1393,7 +1398,7 @@ As an old leaf whirls faster and faster\
 Into the arms of the devil, its master,\
     Be the old age swept away from the earth!
 
-<span epub:type="pagebreak" id="page60" title="60"/>
+<span id="page60" type="pagebreak" title="60"></span>
 
 ## To the Cultured
 
@@ -1423,7 +1428,7 @@ And some of us die,\
 And some live on after\
 To build it anew.
 
-<span epub:type="pagebreak" id="page61" title="61"/>
+<span id="page61" type="pagebreak" title="61"></span>
 
 ## Afterwards
 
@@ -1457,7 +1462,7 @@ For the love that is in them,\
 And he shall behold it\
 And sing also.
 
-<span epub:type="pagebreak" id="page62" title="62"/>
+<span id="page62" type="pagebreak" title="62"></span>
 
 ## Domum redit Poeta
 
@@ -1471,7 +1476,7 @@ The cat curled on the cosy hearth,\
 The memories of younger years,\
     The quiet voices, and the peace.
 
-<span epub:type="pagebreak" id="page63" title="63"/>
+<span id="page63" type="pagebreak" title="63"></span>
 
 ## Memories
 
@@ -1505,7 +1510,7 @@ Whatever comes, I will strike once surely,\
 Once for love of your dear dead faces\
     Ere I come unto you, Shapes in the mist.
 
-<span epub:type="pagebreak" id="page64" title="64"/>
+<span id="page64" type="pagebreak" title="64"></span>
 
 ## Intercessional
 
@@ -1527,7 +1532,7 @@ And grant us at that ending\
 To come unto the quiet isles\
     Beyond Death’s starry West.
 
-<span epub:type="pagebreak" id="page65" title="65"/>
+<span id="page65" type="pagebreak" title="65"></span>
 
 ## April 1916
 
@@ -1551,7 +1556,7 @@ All hate can bring from her misgotten stores,\
 Telling themselves, so England’s self draw breath,\
 That’s all the happiness on this side death.
 
-<span epub:type="pagebreak" id="page66" title="66"/>
+<span id="page66" type="pagebreak" title="66"></span>
 
 ## “Over the Hills and Hollows Green”
 
@@ -1565,7 +1570,7 @@ But bitterly the springtide air\
 About whose torn and shattered streets\
     No more shall children’s footsteps go.
 
-<span epub:type="pagebreak" id="page67" title="67"/>
+<span id="page67" type="pagebreak" title="67"></span>
 
 ## Sonnet
 
@@ -1585,7 +1590,7 @@ Wherefore are hearts, fashioned so wondrously,\
 All spoiled and changed by human bitterness\
 Into the likenesses of stone and wood?
 
-<span epub:type="pagebreak" id="page68" title="68"/>
+<span id="page68" type="pagebreak" title="68"></span>
 
 ## “O Long the Fiends of War shall dance”
 
@@ -1600,7 +1605,7 @@ He gives men’s hearts in custody\
 Of grim old kindly Death, who knows\
 The mould is better than the rose.
 
-<span epub:type="pagebreak" id="page69" title="69"/>
+<span id="page69" type="pagebreak" title="69"></span>
 
 ## For R. Q. G.
 
@@ -1621,7 +1626,7 @@ O Thou who only canst be glorified\
     By man’s own passion and the supreme pain,\
         Accept this sacrifice of blood outpoured.
 
-<span epub:type="pagebreak" id="page70" title="70"/>
+<span id="page70" type="pagebreak" title="70"></span>
 
 ## “Sun and Shadow and Winds of Spring”
 
@@ -1635,7 +1640,7 @@ All, all are but as quenchèd fire\
 Amid the silence of the trees\
     Under the silence of the skies.
 
-<span epub:type="pagebreak" id="page71" title="71"/>
+<span id="page71" type="pagebreak" title="71"></span>
 
 ## “Let us tell Quiet Stories of Kind Eyes”
 
@@ -1664,7 +1669,7 @@ And draw nigh unto us for memory’s sake,\
 Are bound with cords that never a man may break,\
     Unto his heart for ever, until the end.
 
-<span epub:type="pagebreak" id="page72" title="72"/>
+<span id="page72" type="pagebreak" title="72"></span>
 
 ## “Save that Poetic Fire”
 
@@ -1678,7 +1683,7 @@ Man that’s of woman born,\
 Were less than the dew of morn,\
     Less than the least of things.
 
-<span epub:type="pagebreak" id="page73" title="73"/>
+<span id="page73" type="pagebreak" title="73"></span>
 
 ## The Burial of Sophocles
 
@@ -1715,7 +1720,7 @@ And thither in the splendid nights of spring,\
     When stars in legions over heaven are flung,\
 Shall come the ancient gods, all wondering\
     Why he sings not that had so richly sung:\
-<span epub:type="pagebreak" id="page74" title="74"/>There Heracles with peaceful foot shall press\
+<span id="page74" type="pagebreak" title="74"></span>There Heracles with peaceful foot shall press\
     The springing herbage, and Hephæstus strong,\
 Hera and Aphrodite’s loveliness,\
     And the great giver of the choric song.
@@ -1751,7 +1756,7 @@ Was written in the argent stars;\
 His feet were set towards the hills\
 Because he knew that there the rills\
 Ran down like jewels, and fairy cars\
-<span epub:type="pagebreak" id="page75" title="75"/>Galloped, maybe, among the dells,\
+<span id="page75" type="pagebreak" title="75"></span>Galloped, maybe, among the dells,\
 And airy sprites wove fitful spells\
 Of gossamer and cold moonshine\
 Which do most mistily entwine:\
@@ -1792,7 +1797,7 @@ And ever and anon the golden wave\
 Flowed of the drink divine, which only strips\
 This mortal frame of its mortality.\
 And there, and there was Aphrodite, she\
-<span epub:type="pagebreak" id="page76" title="76"/>That is more lovely than the golden dawn\
+<span id="page76" type="pagebreak" title="76"></span>That is more lovely than the golden dawn\
 And from a ripple of the sea was born:\
 And there was Hera, the imperious queen,\
 And Dian’s chastity, that hunts unseen\
@@ -1829,7 +1834,7 @@ Ye benison the gloom of night.
 
 All hail, unfailing eye and hand,\
     All hail, all hail, unsilenced voice,\
-<span epub:type="pagebreak" id="page77" title="77"/>That makest dead men understand,\
+<span id="page77" type="pagebreak" title="77"></span>That makest dead men understand,\
     The very dead in graves rejoice:\
 Whose utterance, writ in ancient books,\
 Shall always live, for him that looks.
@@ -1855,7 +1860,7 @@ Before his time, but tenderly\
 There’s rest within for weary feet\
 Now all the journey is complete.
 
-<span epub:type="pagebreak" id="page78" title="78"/>
+<span id="page78" type="pagebreak" title="78"></span>
 
 ## “So we lay down the Pen”
 
