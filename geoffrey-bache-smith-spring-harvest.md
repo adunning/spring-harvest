@@ -1400,7 +1400,7 @@ Into the arms of the devil, its master,\
 <span style="font-variant:small-caps;">Sons</span> of culture, God-given,\
 First offspring of Heaven,\
 Athletic and tanned,\
-Well-built and not nervous.\
+Well-built and not nervous,\
 With your golf and your tweeds\
 And your “noble editions,”\
 Quiet lives and few needs\
