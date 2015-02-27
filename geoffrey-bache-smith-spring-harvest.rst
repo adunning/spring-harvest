@@ -400,6 +400,8 @@ Glastonbury
 | Nor shall one name be blotted from the page
 | If he that bears it turn to prayer and tears.”
 
+.. Source has a comma at end of third line above. (AD)
+
 [pg 19]
 
 | Then Lancelot: “Though through the tale of years
