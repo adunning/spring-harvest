@@ -4,8 +4,8 @@
 A Spring Harvest
 ================
 
-:PG.Id: 56646
-:PG.Released: 2015-01-16
+:PG.Id: 48371
+:PG.Released: 2015-02-26
 :PG.Rights: Public Domain
 :PG.Producer: Andrew Dunning
 :PG.Credits: Based on scans by the British Library.
