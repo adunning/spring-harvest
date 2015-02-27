@@ -48,9 +48,9 @@ A Spring Harvest
 
 [pg 4]
 
-.. container:: dedication center
+.. container:: dedication center large
 
-    :lg:`To HIS MOTHER`
+    To HIS MOTHER
 
 .. vfill::
 
@@ -220,7 +220,7 @@ Glastonbury
 | They passed, and after ages manifold
 | Came wandering sainted Joseph (even he
 | That tended God’s frail body, and enrolled
-| In linen clothes of spiced fragrancy).
+| In linen clothes of spicèd fragrancy).
 | He brought the vessel, vanished now from earth
 | That wrought destruction to the Table Round,
 | Since many deemed themselves above their worth
@@ -622,6 +622,8 @@ Rime
 | In a turret-chamber under the skies)
 | Passion and joy, and sorrow and laughter,
 | Life and death, and the things thereafter.
+
+.. clearpage::
 
 [pg 26]
 
@@ -1431,6 +1433,8 @@ Ave atque Vale
 |     Unto the uttermost verge of time,
 | Though grave-dust choke the sons of men,
 |     And silence wait upon the rime.
+
+.. clearpage::
 
 [pg 55]
 
