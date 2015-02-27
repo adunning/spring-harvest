@@ -1865,3 +1865,7 @@ And bid our hearts be steel for times and a time\
     Till ends the strife, and then,\
 When the New Age is verily begun,\
 God grant that we may do the things undone.
+
+------------------------------------------------------------------------
+
+Printed by Hazell, Watson & Viney, Ld., London and Aylesbury.
