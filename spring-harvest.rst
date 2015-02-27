@@ -4,20 +4,29 @@
 A Spring Harvest
 ================
 
-:PG.Id: 0000000
-:PG.Released: 2015-02-01
+:PG.Id: 56646
+:PG.Released: 2015-01-16
 :PG.Rights: Public Domain
 :PG.Producer: Andrew Dunning
-:PG.Credits: Produced from scans made by the British Library.
+:PG.Credits: Based on scans by the British Library.
 :DC.Creator: Geoffrey Bache Smith
 :MARCREL.edt: John Ronald Reuel Tolkien
 :DC.Title: A Spring Harvest
 :DC.Language: en
 :DC.Created: 1918
-:coverpage: images/01.jpg
+:coverpage: images/cover.jpg
 
-.. style:: strong
-    :class: no-bold small-caps
+.. role:: sc
+   :class: small-caps
+   
+.. role:: xxl
+   :class: xx-large
+
+.. role:: xl
+   :class: x-large
+
+.. role:: lg
+   :class: large
 
 .. clearpage::
 
@@ -25,75 +34,83 @@ A Spring Harvest
 
 .. frontmatter::
 
-.. cleardoublepage::
-
 [pg 3]
-
-.. vfill::
 
 .. container:: coverpage center
 
-    A Spring Harvest
+    .. vfill::
+
+    :lg:`A Spring Harvest`
 
     .. vfill::
 
+.. clearpage::
+
 [pg 4]
 
-.. container:: dedication center large
+.. container:: dedication center
 
-    To His Mother
+    :lg:`To HIS MOTHER`
 
-    Geoffrey Bache Smith
+.. vfill::
 
-    Born
-        October 18th, 1894
-    Entered Corpus Christi College, Oxford, as Exhibitioner
-        October 1913
-    Received Commission
-        January 1915
-    Died of wounds at Warlencourt, France
-        December 3rd, 1916
+:lg:`Geoffrey Bache Smith`
+
+Born
+    October 18th, 1894
+Entered Corpus Christi College, Oxford, as Exhibitioner
+    October 1913
+Received Commission
+    January 1915
+Died of wounds at Warlencourt, France
+    December 3rd, 1916
+
+.. vfill::
+
+.. clearpage::
 
 [pg 5]
 
 .. container:: titlepage center
 
-    A Spring Harvest
+    :xxl:`A Spring Harvest`
 
-    .. vspace:: 2
+    .. vspace:: 6
 
     by
-    
-    .. vspace:: 2
-    
-    Geoffrey Bache Smith
+
+    :xl:`Geoffrey Bache Smith`
 
     Late Lieutenant in the Lancashire Fusiliers
 
     .. vfill:: 
 
-    Erskine Macdonald, Ltd.
+    :lg:`Erskine Macdonald, Ltd.`
 
     London, W.C.1
 
+.. clearpage::
+
 [pg 6]
 
-.. container:: verso center
+.. container:: verso center italics
 
     .. vfill::
-    
+
     All Rights Reserved
 
     First published June 1918
 
     .. vfill::
-    
+
+.. clearpage::
+
 [pg 7]
 
 Note
 ====
 
-**The** poems of this book were written at very various times, one (“Wind over the Sea”) I believe even as early as 1910, but the order in which they are here given is not chronological beyond the fact that the third part contains only poems written after the outbreak of the war. Of these some were written in England (at Oxford in particular), some in Wales and very many during a year in France from November 1915 to December 1916, which was broken by one leave in the middle of May.
+:sc:`The` poems of this book were written at very various times, one (“Wind over the Sea”) I believe even as early as 1910, but the order in which they are here given is not chronological beyond the fact that the third part contains only poems written after the outbreak of the war. Of these some were written in England (at Oxford in particular), some in Wales and very many during a year in France from November 1915 to December 1916, which was broken by one leave in the middle of May.
 
 “The Burial of Sophocles,” which is here placed at the end, was begun before the war and continued at odd times and in various circumstances afterwards; the final version was sent me from the trenches.
 
@@ -101,13 +118,13 @@ Beyond these few facts no prelude and no *envoi* is needed other than those here
 
 .. class:: right
 
-    J. R. R. T.
+    J\. R\. R\. T\.
 
-1918.
-
-[pg 8]
+1918\.
 
 .. cleardoublepage::
+
+.. [pg 8]
 
 [pg 9]
 
@@ -121,9 +138,11 @@ Contents
 
 .. mainmatter::
 
+.. clearpage::
+
 [pg 11]
 
-| **If** there be one among the Muses nine
+| :sc:`If` there be one among the Muses nine
 | Loves not so much *Completion* as *the Will*,
 | And less the austere saint than the fond sinner:
 | Loves scanty ruins, garlanded with years,
@@ -139,7 +158,9 @@ Contents
 | Which might have been far other, but that Mars
 | Scattered and harried them with his ruthless flail.
 
-[pg 12]
+.. cleardoublepage::
+
+.. [pg 12]
 
 [pg 13]
 
@@ -149,7 +170,7 @@ I. Two Legends
 Glastonbury
 -----------
 
-| **Thither** through moaning woods came Bedivere,
+| :sc:`Thither` through moaning woods came Bedivere,
 | At gloomy breaking of a winter’s day,
 | Weary and travel-stained and sick at heart,
 | With a great wound gotten in that last fray
@@ -283,10 +304,10 @@ Glastonbury
 | Toward the old, dim chapel, and beheld
 | The stone beneath whose length the body lay:
 | Kneeling they closely scanned it all, and spelled
-| Graven in golden character, **“Arcturus
-| Rex Quondamque Futurus.”**
+| Graven in golden character, :sc:`“Arcturus`
+| :sc:`Rex Quondamque Futurus.”`
 
-|                                 Quoth Bedivere:
+|                                     Quoth Bedivere:
 | “Thank God this voice remaineth unto us;
 | Now I do mind me of a prophecy
 | Spoken long since in some emblazoned year,
@@ -457,12 +478,14 @@ Glastonbury
 | And near beside lies Arthur, even he
 | That was King once, and yet again shall be.
 
+.. clearpage::
+
 [pg 21]
 
 Legend
 ------
 
-| **Grey,** ancient abbeys, you may see them yet,
+| :sc:`Grey,` ancient abbeys, you may see them yet,
 | In that high plain above the western sea:
 | A broken arch or two, a few worn stones
 | Piled one upon another, and for paving
@@ -549,6 +572,8 @@ Legend
 | And limned the old saint hearkening to the bird
 | With bright hues, and you still may read and see.
 
+.. clearpage::
+
 [pg 24]
 
 II. First Poems
@@ -557,7 +582,7 @@ II. First Poems
 Rime
 ----
 
-| **O scholar** grey, with quiet eyes,
+| :sc:`O scholar` grey, with quiet eyes,
 | Reading the charactered pages, bright
 | With one tall candle’s flickering light,
 | In a turret chamber under the skies;
@@ -603,7 +628,7 @@ Rime
 To an Elzevir Cicero
 --------------------
 
-| **Dust-covered** book, that very few men know,
+| :sc:`Dust-covered` book, that very few men know,
 |     Even as very few men understand
 |     The glory of an ancient, storied land
 | In the wild current of the ages’ flow,
@@ -619,12 +644,14 @@ To an Elzevir Cicero
 | Crying of love and death and hope and fame
 |     That change not with the changing of the years.
 
+.. clearpage::
+
 [pg 27]
 
 To a Dürer Drawing of Antwerp Harbour
 -------------------------------------
 
-| **Figured** by Dürer’s magic hand wast thou,
+| :sc:`Figured` by Dürer’s magic hand wast thou,
 |     That, lightning-like, traced on the lucid page
 |     Rough, careless lines, with wizardry so sage
 | That yet the whole was fair, I know not how:
@@ -639,15 +666,17 @@ To a Dürer Drawing of Antwerp Harbour
 |     That tells of ancient days and high, because
 |         Old Dürer looked upon you once and smiled.
 
+.. clearpage::
+
 [pg 28]
 
 Pure Virginia
 -------------
 
 York River Returns
-~~~~~~~~~~~~~~~~~~
+``````````````````
 
-| **Like** smoke that vanishes on the morning breeze
+| :sc:`Like` smoke that vanishes on the morning breeze
 |     Are passed the first beginnings of the world,
 |     When time was even as a bud still curled,
 | And scarce the limit set of lands and seas;
@@ -662,12 +691,14 @@ York River Returns
 |     Go up, and vanish into nothingness
 |         On a blue cloud of exquisite fragrancy.
 
+.. clearpage::
+
 [pg 29]
 
 A Preface for a Tale I have never told
 --------------------------------------
 
-| **Herein** is nought of windy citadels
+| :sc:`Herein` is nought of windy citadels
 | Where proud kings dwell, that with an iron hand
 | Deal war or justice: here no history
 | Of valiant ships upon the wine-dark seas
@@ -690,12 +721,14 @@ A Preface for a Tale I have never told
 | A tale that shod itself with ancient shoon
 | And wrapped its cloak, and wandered from the west.
 
+.. clearpage::
+
 [pg 30]
 
 A Sonnet
 --------
 
-| **There** is a wind that takes the heart of a man,
+| :sc:`There` is a wind that takes the heart of a man,
 |     A fresh wind in the latter days of spring,
 |     When hate and war and every evil thing
 | That the wide arches of high Heaven span
@@ -710,12 +743,14 @@ A Sonnet
 | Because all wisdom and all gramarye
 | Are writ in fields, O very plain to see.
 
+.. clearpage::
+
 [pg 31]
 
 “It was all in the Black Countree”
 ----------------------------------
 
-| **It** was all in the Black Countree,
+| :sc:`It` was all in the Black Countree,
 | What time the sweet o’ the year should be,
 | I saw a tree, all gaunt and grey,
 | As mindful of a winter’s day:
@@ -724,12 +759,14 @@ A Sonnet
 | Who to my thought did sweeter sing
 | Than any minstrel of a king.
 
+.. clearpage::
+
 [pg 32]
 
 To a Pianist
 ------------
 
-| **When** others’ fingers touch the keys
+| :sc:`When` others’ fingers touch the keys
 | Then most doleful threnodies
 | Chase about the air, and run
 | Like Pandæmonium begun.
@@ -753,6 +790,8 @@ To a Pianist
 | With immortal harmonies,
 | When your fingers touch the keys.
 
+.. clearpage::
+
 [pg 33]
 
 A Fragment
@@ -760,7 +799,7 @@ A Fragment
 
 --------------
 
-| **And** some came down in a great wind
+| :sc:`And` some came down in a great wind
 |     Under grey scurrying skies
 | To where the long wave-beaten shore
 |     For ever shrieks and cries.
@@ -779,12 +818,14 @@ A Fragment
 | And a great longing sprang in them
 |     To cross the roaring flood. . . .
 
+.. clearpage::
+
 [pg 34]
 
 Sea Poppies
 -----------
 
-| **’Twixt** lonely lands and desert beach,
+| :sc:`’Twixt` lonely lands and desert beach,
 | Where no wind blows and no waves reach,
 | A sunken precinct here we keep,
 | With woven wiles of endless sleep;
@@ -818,12 +859,14 @@ Sea Poppies
 | Thou lover of storm and passion and war
 | Break’st our charmed circle never more.
 
+.. clearpage::
+
 [pg 35]
 
 “O, sing me a Song of the Wild West Wind”
 -----------------------------------------
 
-| **O, sing** me a song of the wild west wind,
+| :sc:`O, sing` me a song of the wild west wind,
 |     And his great sea-harrying flail,
 | Of hardy mariners, copper skinned,
 |     That fly with a bursting sail.
@@ -841,15 +884,17 @@ Sea Poppies
 | And I will return with the night, and sleep
 |     In the wind’s wild harmony.
 
+.. clearpage::
+
 [pg 36]
 
 Ære Perennius
 -------------
 
 Written on Commemoration Sunday, Corpus Christi College, Oxford
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+```````````````````````````````````````````````````````````````
 
-| **We** praise, we praise the immortal dead,
+| :sc:`We` praise, we praise the immortal dead,
 |     Who strove beneath unheeding skies
 | For truth that raised the drooping head,
 |     For light that gladdened weary eyes:
@@ -881,12 +926,14 @@ Written on Commemoration Sunday, Corpus Christi College, Oxford
 | Of the spoilt years unharvested
 |     Be also of their company?
 
+.. clearpage::
+
 [pg 37]
 
 The Old Kings
 -------------
 
-| **Far** away from sunny rills,
+| :sc:`Far` away from sunny rills,
 | Far away from golden broom,
 | Far away from any town
 | Whither merchants travel down—
@@ -906,12 +953,14 @@ The Old Kings
 | When our days are done, shall we
 | Enter their pale company?
 
+.. clearpage::
+
 [pg 38]
 
 “O there be Kings whose Treasuries”
 -----------------------------------
 
-| **O there** be kings whose treasuries
+| :sc:`O there` be kings whose treasuries
 |     Are rich with pearls and gold
 | And silks and bales of cramasy
 |     And spices manifold:
@@ -947,12 +996,14 @@ The Old Kings
 | Of the old gods who wrought the world
 |     And shaped the moon and sun.
 
+.. clearpage::
+
 [pg 39]
 
 A Study
 -------
 
-| **In** chamber hung with white,
+| :sc:`In` chamber hung with white,
 | Lit by the dawning light,
 
 | Upon a slender bed
@@ -967,12 +1018,14 @@ A Study
 | Through quartered casement came
 | To wake her life’s pale flame.
 
+.. clearpage::
+
 [pg 40]
 
 The Eremite
 -----------
 
-| **When** the world is still in the hush of dawn,
+| :sc:`When` the world is still in the hush of dawn,
 | And yet fast sleeping are hate and scorn,
 | From my grey lodging under the hill
 | I do go out, and wander at will.
@@ -982,12 +1035,14 @@ The Eremite
 | I sit alone, with thoughts that are chill,
 | In my grey lodging under the hill.
 
+.. clearpage::
+
 [pg 41]
 
 The House of Eld
 ----------------
 
-| **Now** the old winds are wild about the house,
+| :sc:`Now` the old winds are wild about the house,
 |     And the old ghosts cry to me from the air
 | Of a far isle set in the western sea,
 |     And of the evening sunlight lingering there.
@@ -997,12 +1052,14 @@ The House of Eld
 | I was too fain of life, that bound me here;
 |     Away, old long-loved ghosts, away, away!
 
+.. clearpage::
+
 [pg 42]
 
 The South-west Wind
 -------------------
 
-| **The** south-west wind has blown his fill,
+| :sc:`The` south-west wind has blown his fill,
 |     And vanished with departing day:
 | The air is warm, and very still,
 |     And soft as silks of far Cathay.
@@ -1012,12 +1069,14 @@ The South-west Wind
 | They wring their pallid hands alway,
 |     Seeing the lights upon the hill.
 
+.. clearpage::
+
 [pg 43]
 
 Schumann: Erstes Verlust
 ------------------------
 
-| **O, dreary** fall the leaves,
+| :sc:`O, dreary` fall the leaves,
 | The withered leaves;
 | Among the trees
 | Complains the breeze,
@@ -1050,12 +1109,14 @@ Schumann: Erstes Verlust
 | The dying year,
 | And me alone?
 
+.. clearpage::
+
 [pg 44]
 
 “Dark Boughs against a Golden Sky”
 ----------------------------------
 
-| **Dark** boughs against a golden sky,
+| :sc:`Dark` boughs against a golden sky,
 |     And crying of the winter wind:
 | And sweet it is, for hope is high,
 |     And sad it is, for we have sinned.
@@ -1075,12 +1136,14 @@ Schumann: Erstes Verlust
 | And ever winding streams and poor
 |     Shall lose them in the mighty whole.
 
+.. clearpage::
+
 [pg 45]
 
 “Wind of the Darkness”
 ----------------------
 
-| **Wind** of the darkness, breathing round us,
+| :sc:`Wind` of the darkness, breathing round us,
 |     Wind from the never-resting sea,
 | Lo, you have loosed the cords that bound us,
 |     Lo, you have set our spirits free:
@@ -1100,12 +1163,14 @@ Schumann: Erstes Verlust
 | Where is plenty, and no man soweth:
 |     Calling to strife that shall end in peace.
 
+.. clearpage::
+
 [pg 46]
 
 Creator Spiritus
 ----------------
 
-| **The** wind that scatters dying leaves
+| :sc:`The` wind that scatters dying leaves
 |     And whirls them from the autumn tree
 | Is grateful to the ship that cleaves
 |     With stately prow the scurrying sea.
@@ -1125,12 +1190,14 @@ Creator Spiritus
 | Are scattered far, like autumn leaves,
 |     Or proudly sail, like ships at sea.
 
+.. clearpage::
+
 [pg 47]
 
 Wind over the Sea
 -----------------
 
-|     **Only** a grey sea, and a long grey shore,
+|     :sc:`Only` a grey sea, and a long grey shore,
 |     And the grey heavens brooding over them.
 |     Twilight of hopes and purposes forgot,
 |     Twilight of ceaseless eld, and when was youth?
@@ -1161,15 +1228,17 @@ Wind over the Sea
 |     Twilight of ceaseless eld, for when was youth?
 |     Is it not lonely here, beyond the years?
 
+.. clearpage::
+
 [pg 48]
 
 Songs on the Downs
 ------------------
 
 1
-~
+`
 
-| **This** is the road the Romans made,
+| :sc:`This` is the road the Romans made,
 |     This track half lost in the green hills,
 | Or fading in a forest-glade
 |     ’Mid violets and daffodils.
@@ -1180,7 +1249,7 @@ Songs on the Downs
 |     Since first this road the Romans made.
 
 2
-~
+`
 
 | A miser lives within this house,
 | His patron saint’s the gnawing mouse,
@@ -1190,6 +1259,8 @@ Songs on the Downs
 | Do fold the place their shade within,
 | And moan, as for remembered sin.
 
+.. clearpage::
+
 [pg 49]
 
 III. Last Poems and “The Burial of Sophocles”
@@ -1198,7 +1269,7 @@ III. Last Poems and “The Burial of Sophocles”
 “We who have bowed ourselves to Time”
 -------------------------------------
 
-| **We** who have bowed ourselves to time
+| :sc:`We` who have bowed ourselves to time
 | Now arm an uneventful rime
 |     With panoply of flowers
 |     Through the long summer hours. . . .
@@ -1228,15 +1299,17 @@ III. Last Poems and “The Burial of Sophocles”
 |     Upon their ear may force
 |     Tales of our trodden course.
 
+.. clearpage::
+
 [pg 50]
 
 Anglia Valida in Senectute
 --------------------------
 
 (On the Declaration of War)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+```````````````````````````
 
-| **Not** like to those who find untrodden ways;
+| :sc:`Not` like to those who find untrodden ways;
 |     But down the weary paths we know,
 | Through every change of sky and change of days
 |     Silent, processional we go.
@@ -1261,12 +1334,14 @@ Anglia Valida in Senectute
 | A fire that still may burn deceit and lies
 |     Burn and consume them to the end.
 
+.. clearpage::
+
 [pg 51]
 
 “Dark is the World our Fathers left us”
 ---------------------------------------
 
-| **Dark** is the world our fathers left us,
+| :sc:`Dark` is the world our fathers left us,
 |     Wearily, greyly the long years flow,
 | Almost the gloom has of hope bereft us,
 |     Far is the high gods’ song and low:
@@ -1293,12 +1368,14 @@ Anglia Valida in Senectute
 | Almost the gloom has of hope bereft us,
 |     Far is the high gods’ song and low.
 
+.. clearpage::
+
 [pg 52]
 
 Awakening
 ---------
 
-| **Gold-crested** towers against the veilèd skies,
+| :sc:`Gold-crested` towers against the veilèd skies,
 | Sere branches of the winter trees beneath,
 | And a low song, and heavy-lidded eyes;
 
@@ -1309,12 +1386,14 @@ Awakening
 
 Up, and away! the belted squadrons ride!
 
+.. clearpage::
+
 [pg 53]
 
 Ave atque Vale
 --------------
 
-| **In** Oxford, evermore the same
+| :sc:`In` Oxford, evermore the same
 |     Unto the uttermost verge of time,
 | Though grave-dust choke the sons of men,
 |     And silence wait upon the rime,
@@ -1358,7 +1437,7 @@ Ave atque Vale
 “O, one came down from Seven Hills”
 -----------------------------------
 
-| **O, one** came down from seven hills
+| :sc:`O, one` came down from seven hills
 |     And crossèd seven streams:
 | All in his hands were thyme and grass
 |     And in his eyes were dreams:
@@ -1403,12 +1482,14 @@ Ave atque Vale
 | Love home above their own hearts’ blood
 |     And honour more than life.”
 
+.. clearpage::
+
 [pg 57]
 
 Sonnet to the British Navy
 --------------------------
 
-| **Lest** force aspire to brand an alien name
+| :sc:`Lest` force aspire to brand an alien name
 |     Upon the immortal empire of the free:
 | Lest fire and sword and slaughter strive to tame
 |     This isle, was ne’er so tamed, and ne’er shall be.
@@ -1423,12 +1504,14 @@ Sonnet to the British Navy
 | So, as each sails upon his perilous sea,
 |     I pray High God He strengthen you, and me.
 
+.. clearpage::
+
 [pg 58]
 
 The Last Meeting
 ----------------
 
-| **We** who are young, and have caught the splendour of
+| :sc:`We` who are young, and have caught the splendour of
 |         life,
 |     Hunting it down the forested ways of the world,
 | Do we not wear our hearts like a banner unfurled
@@ -1440,12 +1523,14 @@ The Last Meeting
 | That the old tristful gods on our heads may bring
 |     Can rob us of this one hour in the midst of the years.
 
+.. clearpage::
+
 [pg 59]
 
 The New Age and the Old
 -----------------------
 
-| **Like** the small source of a smooth-flowing river,
+| :sc:`Like` the small source of a smooth-flowing river,
 |     Like the pale dawn of a wonderful day,
 | Comes the New Age, from High God, the good giver,
 |     Comes with the shouts of the children at play:
@@ -1455,12 +1540,14 @@ The New Age and the Old
 | Into the arms of the devil, its master,
 |     Be the old age swept away from the earth!
 
+.. clearpage::
+
 [pg 60]
 
 To the Cultured
 ---------------
 
-| **Sons** of culture, God-given,
+| :sc:`Sons` of culture, God-given,
 | First offspring of Heaven,
 | Athletic and tanned,
 | Well-built and not nervous,
@@ -1486,12 +1573,14 @@ To the Cultured
 | And some live on after
 | To build it anew.
 
+.. clearpage::
+
 [pg 61]
 
 Afterwards
 ----------
 
-| **Afterwards,** when
+| :sc:`Afterwards,` when
 | The old Gods’ hate
 | On the riven earth
 | No more is poured:
@@ -1521,12 +1610,14 @@ Afterwards
 | And he shall behold it
 | And sing also.
 
+.. clearpage::
+
 [pg 62]
 
 Domum redit Poeta
 -----------------
 
-| **O much** desired from far away
+| :sc:`O much` desired from far away
 |     And long, I hold thee once again,
 | Thou undiminished treasury
 |     Of small delights, yet nowise vain:
@@ -1536,12 +1627,14 @@ Domum redit Poeta
 | The memories of younger years,
 |     The quiet voices, and the peace.
 
+.. clearpage::
+
 [pg 63]
 
 Memories
 --------
 
-| **Shapes** in the mist, it is long since I saw you,
+| :sc:`Shapes` in the mist, it is long since I saw you,
 |     Pale hands and faces, and quiet eyes,
 | Crowned with a garland the dead years wrought you
 |     Out of remembrance that never dies:
@@ -1571,12 +1664,14 @@ Memories
 | Once for love of your dear dead faces
 |     Ere I come unto you, Shapes in the mist.
 
+.. clearpage::
+
 [pg 64]
 
 Intercessional
 --------------
 
-| **There** is a place where voices
+| :sc:`There` is a place where voices
 |     Of great guns do not come,
 | Where rifle, mine, and mortar
 |     For evermore are dumb:
@@ -1594,12 +1689,14 @@ Intercessional
 | To come unto the quiet isles
 |     Beyond Death’s starry West.
 
+.. clearpage::
+
 [pg 65]
 
 April 1916
 ----------
 
-| **Now** spring is come upon the hills in France,
+| :sc:`Now` spring is come upon the hills in France,
 | And all the trees are delicately fair,
 | As heeding not the great guns’ voice, by chance
 | Brought down the valley on a wandering air:
@@ -1619,12 +1716,14 @@ April 1916
 | Telling themselves, so England’s self draw breath,
 | That’s all the happiness on this side death.
 
+.. clearpage::
+
 [pg 66]
 
 “Over the Hills and Hollows Green”
 ----------------------------------
 
-| **Over** the hills and hollows green
+| :sc:`Over` the hills and hollows green
 |     The springtide air goes valiantly,
 | Where many sainted singing larks
 |     And blessed primaveras be:
@@ -1634,12 +1733,14 @@ April 1916
 | About whose torn and shattered streets
 |     No more shall children’s footsteps go.
 
+.. clearpage::
+
 [pg 67]
 
 Sonnet
 ------
 
-| **To-night** the world is but a prison house,
+| :sc:`To-night` the world is but a prison house,
 | And kindly ways, and all the springing grass
 | Are dungeon stones to him that may not pass
 | Among them, save with anguish on his brows:
@@ -1655,12 +1756,14 @@ Sonnet
 | All spoiled and changed by human bitterness
 | Into the likenesses of stone and wood?
 
+.. clearpage::
+
 [pg 68]
 
 “O Long the Fiends of War shall dance”
 --------------------------------------
 
-| **O long** the fiends of war shall dance
+| :sc:`O long` the fiends of war shall dance
 | Upon the stricken fields of France:
 | And long and long their grisly cry
 | Shall echo up and smite the sky:
@@ -1671,15 +1774,17 @@ Sonnet
 | Of grim old kindly Death, who knows
 | The mould is better than the rose.
 
+.. clearpage::
+
 [pg 69]
 
 For R. Q. G.
 ------------
 
 July 1916
-~~~~~~~~~
+`````````
 
-| **O God,** whose great inscrutable purposes
+| :sc:`O God,` whose great inscrutable purposes
 | (Seen only of the one all-seeing eye)
 | Are as unchangeable as the azure sky,
 | And as fulfilled of infinite mysteries:
@@ -1694,12 +1799,14 @@ July 1916
 |     By man’s own passion and the supreme pain,
 |         Accept this sacrifice of blood outpoured.
 
+.. clearpage::
+
 [pg 70]
 
 “Sun and Shadow and Winds of Spring”
 ------------------------------------
 
-| **Sun** and shadow and winds of spring,
+| :sc:`Sun` and shadow and winds of spring,
 |     Love and laughter and hope and fame,
 | Cloud and storm-light over the hills,
 |     Tears and passion and sordid shame:
@@ -1709,12 +1816,14 @@ July 1916
 | Amid the silence of the trees
 |     Under the silence of the skies.
 
+.. clearpage::
+
 [pg 71]
 
 “Let us tell Quiet Stories of Kind Eyes”
 ----------------------------------------
 
-| **Let** us tell quiet stories of kind eyes
+| :sc:`Let` us tell quiet stories of kind eyes
 |     And placid brows where peace and learning sate:
 | Of misty gardens under evening skies
 |     Where four would walk of old, with steps sedate.
@@ -1739,12 +1848,14 @@ July 1916
 | Are bound with cords that never a man may break,
 |     Unto his heart for ever, until the end.
 
+.. clearpage::
+
 [pg 72]
 
 “Save that Poetic Fire”
 -----------------------
 
-| **Save** that poetic fire
+| :sc:`Save` that poetic fire
 |     Burns in the hidden heart,
 | Save that the full-voiced choir
 |     Sings in a place apart,
@@ -1754,15 +1865,17 @@ July 1916
 | Were less than the dew of morn,
 |     Less than the least of things.
 
+.. clearpage::
+
 [pg 73]
 
 The Burial of Sophocles
 -----------------------
 
 The First Verses
-~~~~~~~~~~~~~~~~
+````````````````
 
-| **Gather** great store of roses, crimson-red
+| :sc:`Gather` great store of roses, crimson-red
 |     From ancient gardens under summer skies:
 | New opened buds, and some that soon must shed
 |     Their leaves to earth, that all expectant lies;
@@ -1808,7 +1921,7 @@ The First Verses
 |     And who yet linger half-afraid the end.
 
 The Interlude
-~~~~~~~~~~~~~
+`````````````
 
 | It was upon a night of spring,
 | Even the time when first do sing
@@ -1898,7 +2011,7 @@ The Interlude
 | And make for them another song.
 
 The Last Verses
-~~~~~~~~~~~~~~~
+```````````````
 
 | O ageless nonpareil of stars
 |     That shinest through a mist of cloud,
@@ -1935,16 +2048,26 @@ The Last Verses
 | There’s rest within for weary feet
 | Now all the journey is complete.
 
+.. clearpage::
+
 [pg 78]
 
 “So we lay down the Pen”
 ------------------------
 
-| **So** we lay down the pen,
+| :sc:`So` we lay down the pen,
 | So we forbear the building of the rime,
 | And bid our hearts be steel for times and a time
 |     Till ends the strife, and then,
 | When the New Age is verily begun,
 | God grant that we may do the things undone.
+
+.. vfill:: 
+
+--------------
+
+.. container:: backmatter center italics
+
+    Printed by Hazell, Watson & Viney, Ld., London and Aylesbury.
 
 .. pgfooter::
